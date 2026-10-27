@@ -1,17 +1,29 @@
+
 services:
-  - type: web
-    name: groovie-king-website
-    runtime: static
-    buildCommand: echo "Static site ready"
-    staticPublishPath: ./website
-    autoDeployTrigger: commit
-    routes:
-      - type: rewrite
-        source: /*
-        destination: /index.html
   - type: worker
     name: groovie-king-bot
     runtime: node
+    plan: starter
     buildCommand: npm install
     startCommand: npm start
-    autoDeployTrigger: commit
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: DISCORD_TOKEN
+        sync: false
+      - key: DISCORD_CLIENT_ID
+        sync: false
+      - key: LAVALINK_HOST
+        sync: false
+      - key: LAVALINK_PORT
+        sync: false
+      - key: LAVALINK_PASSWORD
+        sync: false
+      - key: LAVALINK_SECURE
+        value: "true"
+
+  - type: web
+    name: groovie-king-website
+    runtime: static
+    buildCommand: echo "Static website"
+    staticPublishPath: ./website

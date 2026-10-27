@@ -1,10 +1,9 @@
 import 'dotenv/config';
-import {Client,GatewayIntentBits,Collection,REST,Routes,Events,EmbedBuilder,ActionRowBuilder,ButtonBuilder,ButtonStyle,ModalBuilder,TextInputBuilder,TextInputStyle,MessageFlags} from 'discord.js';
+import {Client,GatewayIntentBits,Collection,REST,Routes,Events,EmbedBuilder,MessageFlags} from 'discord.js';
 import {LavalinkManager} from 'lavalink-client';
 import {readdir} from 'node:fs/promises';
 import {fileURLToPath,pathToFileURL} from 'node:url';
 import path from 'node:path';
-import registry from './lib/registry.json' with {type:'json'};
 import {presetNames} from './lib/filters.js';
 const env=(...keys)=>keys.map(k=>process.env[k]).find(Boolean);
 const token=env('DISCORD_TOKEN','BOT_TOKEN','TOKEN');
@@ -27,21 +26,21 @@ for(const file of (await readdir(dir)).filter(f=>f.endsWith('.js')).sort()){
  client.commands.set(data.name,cmd);definitions.push(data);
 }
 if(definitions.length!==100)throw Error('Expected 100 slash commands, got '+definitions.length);
-const groups=['Music','Queue','Filters','Utilities'];
-const pageSize=8;
-function list(category,query=''){
- const rows=registry.filter(x=>(category==='All'||x.category===category)&&(`${x.name} ${x.description}`).toLowerCase().includes(query.toLowerCase()));
- return rows;
+// One-page help: all 100 live registered commands, no pagination or outdated registry.
+function helpPanel(){
+ const cmds=[...client.commands.values()].map(c=>c.data.toJSON()).sort((a,b)=>a.name.localeCompare(b.name));
+ const embed=new EmbedBuilder().setColor(0x15d9ef)
+  .setTitle('🎧 Groovie King · All Commands')
+  .setDescription(`**${cmds.length} slash commands** · All commands on one page.\nType a command to see its options.`)
+  .setFooter({text:'Groovie King · Feel the Beat'});
+ // Five compact columns of 20 commands, within Discord's 1024-character field limit.
+ for(let start=0;start<cmds.length;start+=20){
+  const batch=cmds.slice(start,start+20);
+  embed.addFields({name:`Commands ${start+1}–${start+batch.length}`,value:batch.map(c=>'`/'+c.name+'`').join(' · '),inline:false});
+ }
+ return {embeds:[embed]};
 }
-function panel(category='Music',page=0,query=''){
- const rows=list(category,query);const max=Math.max(0,Math.ceil(rows.length/pageSize)-1);page=Math.min(Math.max(page,0),max);
- const chunk=rows.slice(page*pageSize,(page+1)*pageSize);
- const embed=new EmbedBuilder().setColor(0x15d9ef).setTitle('🎧 Groovie King · Help Center').setDescription(`${query?'Search: '+query:'Category: '+category}\n${rows.length} matching commands · Page ${page+1}/${max+1}`).addFields({name:'Commands',value:chunk.map(x=>`**/${x.name}** — ${x.description}`).join('\n')||'No matches'}).setFooter({text:'Groovie King · Feel the Beat'});
- const row1=new ActionRowBuilder().addComponents(groups.map(c=>new ButtonBuilder().setCustomId(`gk:c:${c}`).setLabel(c).setStyle(c===category?ButtonStyle.Primary:ButtonStyle.Secondary)));
- const row2=new ActionRowBuilder().addComponents(new ButtonBuilder().setCustomId(`gk:p:${category}:${page-1}`).setLabel('Previous').setStyle(ButtonStyle.Secondary).setDisabled(page===0),new ButtonBuilder().setCustomId(`gk:p:${category}:${page+1}`).setLabel('Next').setStyle(ButtonStyle.Secondary).setDisabled(page===max),new ButtonBuilder().setCustomId('gk:search').setLabel('Search').setStyle(ButtonStyle.Success),new ButtonBuilder().setCustomId('gk:c:All').setLabel('All').setStyle(ButtonStyle.Secondary));
- return {embeds:[embed],components:[row1,row2]};
-}
-client.showHelp=async i=>i.reply(panel());
+client.showHelp=async i=>i.reply(helpPanel());
 client.once(Events.ClientReady,async()=>{
  console.log('Groovie King ready as '+client.user.tag);
  try {await client.lavalink.init({id:client.user.id,username:client.user.username});}catch(e){console.error('Lavalink initialization:',e);}
@@ -55,13 +54,6 @@ client.on(Events.InteractionCreate,async i=>{
   if(i.isAutocomplete()&&i.commandName==='preset'){
    const q=i.options.getFocused().toLowerCase();return i.respond(presetNames.filter(x=>x.includes(q)).slice(0,25).map(x=>({name:x,value:x})));
   }
-  if(i.isButton()&&i.customId.startsWith('gk:')){
-   if(i.customId==='gk:search'){
-    const modal=new ModalBuilder().setCustomId('gk:modal').setTitle('Search Groovie King commands');modal.addComponents(new ActionRowBuilder().addComponents(new TextInputBuilder().setCustomId('query').setLabel('Command name or keyword').setStyle(TextInputStyle.Short).setRequired(true).setMaxLength(80)));return i.showModal(modal);
-   }
-   const [,type,cat,p]=i.customId.split(':');return i.update(panel(cat,type==='p'?Number(p):0));
-  }
-  if(i.isModalSubmit()&&i.customId==='gk:modal')return i.reply({...panel('All',0,i.fields.getTextInputValue('query')),flags:MessageFlags.Ephemeral});
   if(!i.isChatInputCommand())return;
   if(!i.inGuild()&&i.commandName!=='help')return i.reply({content:'Use music commands in a server.',flags:MessageFlags.Ephemeral});
   const cmd=client.commands.get(i.commandName);if(!cmd)return;

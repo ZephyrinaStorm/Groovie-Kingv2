@@ -1,0 +1,17 @@
+services:
+  - type: web
+    name: groovie-king-website
+    runtime: static
+    buildCommand: echo "Static site ready"
+    staticPublishPath: ./website
+    autoDeployTrigger: commit
+    routes:
+      - type: rewrite
+        source: /*
+        destination: /index.html
+  - type: worker
+    name: groovie-king-bot
+    runtime: node
+    buildCommand: npm install
+    startCommand: npm start
+    autoDeployTrigger: commit

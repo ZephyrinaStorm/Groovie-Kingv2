@@ -1,0 +1,5852 @@
+{
+  "fx-01": {
+    "label": "Groove 01",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": 0.0
+      },
+      {
+        "band": 1,
+        "gain": 0.0
+      },
+      {
+        "band": 2,
+        "gain": 0.0
+      },
+      {
+        "band": 3,
+        "gain": 0.003
+      },
+      {
+        "band": 4,
+        "gain": 0.015
+      },
+      {
+        "band": 5,
+        "gain": 0.046
+      },
+      {
+        "band": 6,
+        "gain": 0.092
+      },
+      {
+        "band": 7,
+        "gain": 0.115
+      },
+      {
+        "band": 8,
+        "gain": 0.092
+      },
+      {
+        "band": 9,
+        "gain": 0.046
+      },
+      {
+        "band": 10,
+        "gain": 0.015
+      },
+      {
+        "band": 11,
+        "gain": 0.003
+      },
+      {
+        "band": 12,
+        "gain": 0.0
+      },
+      {
+        "band": 13,
+        "gain": 0.0
+      },
+      {
+        "band": 14,
+        "gain": 0.0
+      }
+    ]
+  },
+  "fx-02": {
+    "label": "Groove 02",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": 0.0
+      },
+      {
+        "band": 1,
+        "gain": 0.0
+      },
+      {
+        "band": 2,
+        "gain": 0.0
+      },
+      {
+        "band": 3,
+        "gain": 0.0
+      },
+      {
+        "band": 4,
+        "gain": 0.0
+      },
+      {
+        "band": 5,
+        "gain": 0.0
+      },
+      {
+        "band": 6,
+        "gain": 0.0
+      },
+      {
+        "band": 7,
+        "gain": 0.0
+      },
+      {
+        "band": 8,
+        "gain": 0.001
+      },
+      {
+        "band": 9,
+        "gain": 0.005
+      },
+      {
+        "band": 10,
+        "gain": 0.017
+      },
+      {
+        "band": 11,
+        "gain": 0.044
+      },
+      {
+        "band": 12,
+        "gain": 0.087
+      },
+      {
+        "band": 13,
+        "gain": 0.131
+      },
+      {
+        "band": 14,
+        "gain": 0.15
+      }
+    ]
+  },
+  "fx-03": {
+    "label": "Groove 03",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": 0.007
+      },
+      {
+        "band": 1,
+        "gain": 0.019
+      },
+      {
+        "band": 2,
+        "gain": 0.043
+      },
+      {
+        "band": 3,
+        "gain": 0.081
+      },
+      {
+        "band": 4,
+        "gain": 0.128
+      },
+      {
+        "band": 5,
+        "gain": 0.169
+      },
+      {
+        "band": 6,
+        "gain": 0.185
+      },
+      {
+        "band": 7,
+        "gain": 0.169
+      },
+      {
+        "band": 8,
+        "gain": 0.128
+      },
+      {
+        "band": 9,
+        "gain": 0.081
+      },
+      {
+        "band": 10,
+        "gain": 0.043
+      },
+      {
+        "band": 11,
+        "gain": 0.019
+      },
+      {
+        "band": 12,
+        "gain": 0.007
+      },
+      {
+        "band": 13,
+        "gain": 0.002
+      },
+      {
+        "band": 14,
+        "gain": 0.001
+      }
+    ]
+  },
+  "fx-04": {
+    "label": "Groove 04",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": -0.04
+      },
+      {
+        "band": 1,
+        "gain": -0.04
+      },
+      {
+        "band": 2,
+        "gain": -0.04
+      },
+      {
+        "band": 3,
+        "gain": -0.04
+      },
+      {
+        "band": 4,
+        "gain": -0.039
+      },
+      {
+        "band": 5,
+        "gain": -0.037
+      },
+      {
+        "band": 6,
+        "gain": -0.031
+      },
+      {
+        "band": 7,
+        "gain": -0.019
+      },
+      {
+        "band": 8,
+        "gain": 0.003
+      },
+      {
+        "band": 9,
+        "gain": 0.037
+      },
+      {
+        "band": 10,
+        "gain": 0.082
+      },
+      {
+        "band": 11,
+        "gain": 0.129
+      },
+      {
+        "band": 12,
+        "gain": 0.166
+      },
+      {
+        "band": 13,
+        "gain": 0.18
+      },
+      {
+        "band": 14,
+        "gain": 0.166
+      }
+    ]
+  },
+  "fx-05": {
+    "label": "Groove 05",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": 0.0
+      },
+      {
+        "band": 1,
+        "gain": 0.0
+      },
+      {
+        "band": 2,
+        "gain": 0.005
+      },
+      {
+        "band": 3,
+        "gain": 0.043
+      },
+      {
+        "band": 4,
+        "gain": 0.164
+      },
+      {
+        "band": 5,
+        "gain": 0.255
+      },
+      {
+        "band": 6,
+        "gain": 0.164
+      },
+      {
+        "band": 7,
+        "gain": 0.043
+      },
+      {
+        "band": 8,
+        "gain": 0.005
+      },
+      {
+        "band": 9,
+        "gain": 0.0
+      },
+      {
+        "band": 10,
+        "gain": 0.0
+      },
+      {
+        "band": 11,
+        "gain": 0.0
+      },
+      {
+        "band": 12,
+        "gain": 0.0
+      },
+      {
+        "band": 13,
+        "gain": 0.0
+      },
+      {
+        "band": 14,
+        "gain": 0.0
+      }
+    ]
+  },
+  "fx-06": {
+    "label": "Groove 06",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": 0.0
+      },
+      {
+        "band": 1,
+        "gain": 0.0
+      },
+      {
+        "band": 2,
+        "gain": 0.0
+      },
+      {
+        "band": 3,
+        "gain": 0.0
+      },
+      {
+        "band": 4,
+        "gain": 0.0
+      },
+      {
+        "band": 5,
+        "gain": 0.0
+      },
+      {
+        "band": 6,
+        "gain": 0.0
+      },
+      {
+        "band": 7,
+        "gain": 0.001
+      },
+      {
+        "band": 8,
+        "gain": 0.008
+      },
+      {
+        "band": 9,
+        "gain": 0.038
+      },
+      {
+        "band": 10,
+        "gain": 0.117
+      },
+      {
+        "band": 11,
+        "gain": 0.231
+      },
+      {
+        "band": 12,
+        "gain": 0.29
+      },
+      {
+        "band": 13,
+        "gain": 0.231
+      },
+      {
+        "band": 14,
+        "gain": 0.117
+      }
+    ]
+  },
+  "fx-07": {
+    "label": "Groove 07",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": 0.036
+      },
+      {
+        "band": 1,
+        "gain": 0.095
+      },
+      {
+        "band": 2,
+        "gain": 0.188
+      },
+      {
+        "band": 3,
+        "gain": 0.283
+      },
+      {
+        "band": 4,
+        "gain": 0.325
+      },
+      {
+        "band": 5,
+        "gain": 0.283
+      },
+      {
+        "band": 6,
+        "gain": 0.188
+      },
+      {
+        "band": 7,
+        "gain": 0.095
+      },
+      {
+        "band": 8,
+        "gain": 0.036
+      },
+      {
+        "band": 9,
+        "gain": 0.011
+      },
+      {
+        "band": 10,
+        "gain": 0.002
+      },
+      {
+        "band": 11,
+        "gain": 0.0
+      },
+      {
+        "band": 12,
+        "gain": 0.0
+      },
+      {
+        "band": 13,
+        "gain": 0.0
+      },
+      {
+        "band": 14,
+        "gain": 0.0
+      }
+    ]
+  },
+  "fx-08": {
+    "label": "Groove 08",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": -0.04
+      },
+      {
+        "band": 1,
+        "gain": -0.04
+      },
+      {
+        "band": 2,
+        "gain": -0.04
+      },
+      {
+        "band": 3,
+        "gain": -0.039
+      },
+      {
+        "band": 4,
+        "gain": -0.036
+      },
+      {
+        "band": 5,
+        "gain": -0.027
+      },
+      {
+        "band": 6,
+        "gain": -0.004
+      },
+      {
+        "band": 7,
+        "gain": 0.043
+      },
+      {
+        "band": 8,
+        "gain": 0.118
+      },
+      {
+        "band": 9,
+        "gain": 0.209
+      },
+      {
+        "band": 10,
+        "gain": 0.288
+      },
+      {
+        "band": 11,
+        "gain": 0.32
+      },
+      {
+        "band": 12,
+        "gain": 0.288
+      },
+      {
+        "band": 13,
+        "gain": 0.209
+      },
+      {
+        "band": 14,
+        "gain": 0.118
+      }
+    ]
+  },
+  "fx-09": {
+    "label": "Groove 09",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": 0.044
+      },
+      {
+        "band": 1,
+        "gain": 0.062
+      },
+      {
+        "band": 2,
+        "gain": 0.075
+      },
+      {
+        "band": 3,
+        "gain": 0.08
+      },
+      {
+        "band": 4,
+        "gain": 0.075
+      },
+      {
+        "band": 5,
+        "gain": 0.062
+      },
+      {
+        "band": 6,
+        "gain": 0.044
+      },
+      {
+        "band": 7,
+        "gain": 0.028
+      },
+      {
+        "band": 8,
+        "gain": 0.015
+      },
+      {
+        "band": 9,
+        "gain": 0.008
+      },
+      {
+        "band": 10,
+        "gain": 0.003
+      },
+      {
+        "band": 11,
+        "gain": 0.001
+      },
+      {
+        "band": 12,
+        "gain": 0.0
+      },
+      {
+        "band": 13,
+        "gain": 0.0
+      },
+      {
+        "band": 14,
+        "gain": 0.0
+      }
+    ]
+  },
+  "fx-10": {
+    "label": "Groove 10",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": 0.0
+      },
+      {
+        "band": 1,
+        "gain": 0.0
+      },
+      {
+        "band": 2,
+        "gain": 0.0
+      },
+      {
+        "band": 3,
+        "gain": 0.0
+      },
+      {
+        "band": 4,
+        "gain": 0.0
+      },
+      {
+        "band": 5,
+        "gain": 0.0
+      },
+      {
+        "band": 6,
+        "gain": 0.0
+      },
+      {
+        "band": 7,
+        "gain": 0.002
+      },
+      {
+        "band": 8,
+        "gain": 0.019
+      },
+      {
+        "band": 9,
+        "gain": 0.074
+      },
+      {
+        "band": 10,
+        "gain": 0.115
+      },
+      {
+        "band": 11,
+        "gain": 0.074
+      },
+      {
+        "band": 12,
+        "gain": 0.019
+      },
+      {
+        "band": 13,
+        "gain": 0.002
+      },
+      {
+        "band": 14,
+        "gain": 0.0
+      }
+    ]
+  },
+  "fx-11": {
+    "label": "Groove 11",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": 0.061
+      },
+      {
+        "band": 1,
+        "gain": 0.12
+      },
+      {
+        "band": 2,
+        "gain": 0.15
+      },
+      {
+        "band": 3,
+        "gain": 0.12
+      },
+      {
+        "band": 4,
+        "gain": 0.061
+      },
+      {
+        "band": 5,
+        "gain": 0.019
+      },
+      {
+        "band": 6,
+        "gain": 0.004
+      },
+      {
+        "band": 7,
+        "gain": 0.001
+      },
+      {
+        "band": 8,
+        "gain": 0.0
+      },
+      {
+        "band": 9,
+        "gain": 0.0
+      },
+      {
+        "band": 10,
+        "gain": 0.0
+      },
+      {
+        "band": 11,
+        "gain": 0.0
+      },
+      {
+        "band": 12,
+        "gain": 0.0
+      },
+      {
+        "band": 13,
+        "gain": 0.0
+      },
+      {
+        "band": 14,
+        "gain": 0.0
+      }
+    ]
+  },
+  "fx-12": {
+    "label": "Groove 12",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": -0.04
+      },
+      {
+        "band": 1,
+        "gain": -0.04
+      },
+      {
+        "band": 2,
+        "gain": -0.04
+      },
+      {
+        "band": 3,
+        "gain": -0.039
+      },
+      {
+        "band": 4,
+        "gain": -0.034
+      },
+      {
+        "band": 5,
+        "gain": -0.019
+      },
+      {
+        "band": 6,
+        "gain": 0.014
+      },
+      {
+        "band": 7,
+        "gain": 0.067
+      },
+      {
+        "band": 8,
+        "gain": 0.121
+      },
+      {
+        "band": 9,
+        "gain": 0.145
+      },
+      {
+        "band": 10,
+        "gain": 0.121
+      },
+      {
+        "band": 11,
+        "gain": 0.067
+      },
+      {
+        "band": 12,
+        "gain": 0.014
+      },
+      {
+        "band": 13,
+        "gain": -0.019
+      },
+      {
+        "band": 14,
+        "gain": -0.034
+      }
+    ]
+  },
+  "fx-13": {
+    "label": "Groove 13",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": 0.201
+      },
+      {
+        "band": 1,
+        "gain": 0.22
+      },
+      {
+        "band": 2,
+        "gain": 0.201
+      },
+      {
+        "band": 3,
+        "gain": 0.152
+      },
+      {
+        "band": 4,
+        "gain": 0.096
+      },
+      {
+        "band": 5,
+        "gain": 0.051
+      },
+      {
+        "band": 6,
+        "gain": 0.022
+      },
+      {
+        "band": 7,
+        "gain": 0.008
+      },
+      {
+        "band": 8,
+        "gain": 0.002
+      },
+      {
+        "band": 9,
+        "gain": 0.001
+      },
+      {
+        "band": 10,
+        "gain": 0.0
+      },
+      {
+        "band": 11,
+        "gain": 0.0
+      },
+      {
+        "band": 12,
+        "gain": 0.0
+      },
+      {
+        "band": 13,
+        "gain": 0.0
+      },
+      {
+        "band": 14,
+        "gain": 0.0
+      }
+    ]
+  },
+  "fx-14": {
+    "label": "Groove 14",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": 0.004
+      },
+      {
+        "band": 1,
+        "gain": 0.01
+      },
+      {
+        "band": 2,
+        "gain": 0.024
+      },
+      {
+        "band": 3,
+        "gain": 0.049
+      },
+      {
+        "band": 4,
+        "gain": 0.089
+      },
+      {
+        "band": 5,
+        "gain": 0.141
+      },
+      {
+        "band": 6,
+        "gain": 0.196
+      },
+      {
+        "band": 7,
+        "gain": 0.239
+      },
+      {
+        "band": 8,
+        "gain": 0.255
+      },
+      {
+        "band": 9,
+        "gain": 0.239
+      },
+      {
+        "band": 10,
+        "gain": 0.196
+      },
+      {
+        "band": 11,
+        "gain": 0.141
+      },
+      {
+        "band": 12,
+        "gain": 0.089
+      },
+      {
+        "band": 13,
+        "gain": 0.049
+      },
+      {
+        "band": 14,
+        "gain": 0.024
+      }
+    ]
+  },
+  "fx-15": {
+    "label": "Groove 15",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": 0.29
+      },
+      {
+        "band": 1,
+        "gain": 0.186
+      },
+      {
+        "band": 2,
+        "gain": 0.049
+      },
+      {
+        "band": 3,
+        "gain": 0.005
+      },
+      {
+        "band": 4,
+        "gain": 0.0
+      },
+      {
+        "band": 5,
+        "gain": 0.0
+      },
+      {
+        "band": 6,
+        "gain": 0.0
+      },
+      {
+        "band": 7,
+        "gain": 0.0
+      },
+      {
+        "band": 8,
+        "gain": 0.0
+      },
+      {
+        "band": 9,
+        "gain": 0.0
+      },
+      {
+        "band": 10,
+        "gain": 0.0
+      },
+      {
+        "band": 11,
+        "gain": 0.0
+      },
+      {
+        "band": 12,
+        "gain": 0.0
+      },
+      {
+        "band": 13,
+        "gain": 0.0
+      },
+      {
+        "band": 14,
+        "gain": 0.0
+      }
+    ]
+  },
+  "fx-16": {
+    "label": "Groove 16",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": -0.04
+      },
+      {
+        "band": 1,
+        "gain": -0.04
+      },
+      {
+        "band": 2,
+        "gain": -0.039
+      },
+      {
+        "band": 3,
+        "gain": -0.031
+      },
+      {
+        "band": 4,
+        "gain": 0.002
+      },
+      {
+        "band": 5,
+        "gain": 0.091
+      },
+      {
+        "band": 6,
+        "gain": 0.219
+      },
+      {
+        "band": 7,
+        "gain": 0.285
+      },
+      {
+        "band": 8,
+        "gain": 0.219
+      },
+      {
+        "band": 9,
+        "gain": 0.091
+      },
+      {
+        "band": 10,
+        "gain": 0.002
+      },
+      {
+        "band": 11,
+        "gain": -0.031
+      },
+      {
+        "band": 12,
+        "gain": -0.039
+      },
+      {
+        "band": 13,
+        "gain": -0.04
+      },
+      {
+        "band": 14,
+        "gain": -0.04
+      }
+    ]
+  },
+  "fx-17": {
+    "label": "Groove 17",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": 0.0
+      },
+      {
+        "band": 1,
+        "gain": 0.0
+      },
+      {
+        "band": 2,
+        "gain": 0.0
+      },
+      {
+        "band": 3,
+        "gain": 0.0
+      },
+      {
+        "band": 4,
+        "gain": 0.0
+      },
+      {
+        "band": 5,
+        "gain": 0.0
+      },
+      {
+        "band": 6,
+        "gain": 0.0
+      },
+      {
+        "band": 7,
+        "gain": 0.0
+      },
+      {
+        "band": 8,
+        "gain": 0.003
+      },
+      {
+        "band": 9,
+        "gain": 0.012
+      },
+      {
+        "band": 10,
+        "gain": 0.04
+      },
+      {
+        "band": 11,
+        "gain": 0.105
+      },
+      {
+        "band": 12,
+        "gain": 0.208
+      },
+      {
+        "band": 13,
+        "gain": 0.314
+      },
+      {
+        "band": 14,
+        "gain": 0.35
+      }
+    ]
+  },
+  "fx-18": {
+    "label": "Groove 18",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": 0.003
+      },
+      {
+        "band": 1,
+        "gain": 0.008
+      },
+      {
+        "band": 2,
+        "gain": 0.018
+      },
+      {
+        "band": 3,
+        "gain": 0.035
+      },
+      {
+        "band": 4,
+        "gain": 0.055
+      },
+      {
+        "band": 5,
+        "gain": 0.073
+      },
+      {
+        "band": 6,
+        "gain": 0.08
+      },
+      {
+        "band": 7,
+        "gain": 0.073
+      },
+      {
+        "band": 8,
+        "gain": 0.055
+      },
+      {
+        "band": 9,
+        "gain": 0.035
+      },
+      {
+        "band": 10,
+        "gain": 0.018
+      },
+      {
+        "band": 11,
+        "gain": 0.008
+      },
+      {
+        "band": 12,
+        "gain": 0.003
+      },
+      {
+        "band": 13,
+        "gain": 0.001
+      },
+      {
+        "band": 14,
+        "gain": 0.0
+      }
+    ]
+  },
+  "fx-19": {
+    "label": "Groove 19",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": 0.0
+      },
+      {
+        "band": 1,
+        "gain": 0.0
+      },
+      {
+        "band": 2,
+        "gain": 0.0
+      },
+      {
+        "band": 3,
+        "gain": 0.0
+      },
+      {
+        "band": 4,
+        "gain": 0.001
+      },
+      {
+        "band": 5,
+        "gain": 0.002
+      },
+      {
+        "band": 6,
+        "gain": 0.005
+      },
+      {
+        "band": 7,
+        "gain": 0.011
+      },
+      {
+        "band": 8,
+        "gain": 0.022
+      },
+      {
+        "band": 9,
+        "gain": 0.04
+      },
+      {
+        "band": 10,
+        "gain": 0.064
+      },
+      {
+        "band": 11,
+        "gain": 0.088
+      },
+      {
+        "band": 12,
+        "gain": 0.108
+      },
+      {
+        "band": 13,
+        "gain": 0.115
+      },
+      {
+        "band": 14,
+        "gain": 0.108
+      }
+    ]
+  },
+  "fx-20": {
+    "label": "Groove 20",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": -0.04
+      },
+      {
+        "band": 1,
+        "gain": -0.04
+      },
+      {
+        "band": 2,
+        "gain": -0.037
+      },
+      {
+        "band": 3,
+        "gain": -0.015
+      },
+      {
+        "band": 4,
+        "gain": 0.056
+      },
+      {
+        "band": 5,
+        "gain": 0.11
+      },
+      {
+        "band": 6,
+        "gain": 0.056
+      },
+      {
+        "band": 7,
+        "gain": -0.015
+      },
+      {
+        "band": 8,
+        "gain": -0.037
+      },
+      {
+        "band": 9,
+        "gain": -0.04
+      },
+      {
+        "band": 10,
+        "gain": -0.04
+      },
+      {
+        "band": 11,
+        "gain": -0.04
+      },
+      {
+        "band": 12,
+        "gain": -0.04
+      },
+      {
+        "band": 13,
+        "gain": -0.04
+      },
+      {
+        "band": 14,
+        "gain": -0.04
+      }
+    ]
+  },
+  "fx-21": {
+    "label": "Groove 21",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": 0.0
+      },
+      {
+        "band": 1,
+        "gain": 0.0
+      },
+      {
+        "band": 2,
+        "gain": 0.0
+      },
+      {
+        "band": 3,
+        "gain": 0.0
+      },
+      {
+        "band": 4,
+        "gain": 0.0
+      },
+      {
+        "band": 5,
+        "gain": 0.0
+      },
+      {
+        "band": 6,
+        "gain": 0.0
+      },
+      {
+        "band": 7,
+        "gain": 0.001
+      },
+      {
+        "band": 8,
+        "gain": 0.005
+      },
+      {
+        "band": 9,
+        "gain": 0.024
+      },
+      {
+        "band": 10,
+        "gain": 0.075
+      },
+      {
+        "band": 11,
+        "gain": 0.147
+      },
+      {
+        "band": 12,
+        "gain": 0.185
+      },
+      {
+        "band": 13,
+        "gain": 0.147
+      },
+      {
+        "band": 14,
+        "gain": 0.075
+      }
+    ]
+  },
+  "fx-22": {
+    "label": "Groove 22",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": 0.025
+      },
+      {
+        "band": 1,
+        "gain": 0.064
+      },
+      {
+        "band": 2,
+        "gain": 0.127
+      },
+      {
+        "band": 3,
+        "gain": 0.192
+      },
+      {
+        "band": 4,
+        "gain": 0.22
+      },
+      {
+        "band": 5,
+        "gain": 0.192
+      },
+      {
+        "band": 6,
+        "gain": 0.127
+      },
+      {
+        "band": 7,
+        "gain": 0.064
+      },
+      {
+        "band": 8,
+        "gain": 0.025
+      },
+      {
+        "band": 9,
+        "gain": 0.007
+      },
+      {
+        "band": 10,
+        "gain": 0.002
+      },
+      {
+        "band": 11,
+        "gain": 0.0
+      },
+      {
+        "band": 12,
+        "gain": 0.0
+      },
+      {
+        "band": 13,
+        "gain": 0.0
+      },
+      {
+        "band": 14,
+        "gain": 0.0
+      }
+    ]
+  },
+  "fx-23": {
+    "label": "Groove 23",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": 0.0
+      },
+      {
+        "band": 1,
+        "gain": 0.0
+      },
+      {
+        "band": 2,
+        "gain": 0.0
+      },
+      {
+        "band": 3,
+        "gain": 0.001
+      },
+      {
+        "band": 4,
+        "gain": 0.003
+      },
+      {
+        "band": 5,
+        "gain": 0.009
+      },
+      {
+        "band": 6,
+        "gain": 0.026
+      },
+      {
+        "band": 7,
+        "gain": 0.059
+      },
+      {
+        "band": 8,
+        "gain": 0.112
+      },
+      {
+        "band": 9,
+        "gain": 0.177
+      },
+      {
+        "band": 10,
+        "gain": 0.233
+      },
+      {
+        "band": 11,
+        "gain": 0.255
+      },
+      {
+        "band": 12,
+        "gain": 0.233
+      },
+      {
+        "band": 13,
+        "gain": 0.177
+      },
+      {
+        "band": 14,
+        "gain": 0.112
+      }
+    ]
+  },
+  "fx-24": {
+    "label": "Groove 24",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": 0.12
+      },
+      {
+        "band": 1,
+        "gain": 0.183
+      },
+      {
+        "band": 2,
+        "gain": 0.232
+      },
+      {
+        "band": 3,
+        "gain": 0.25
+      },
+      {
+        "band": 4,
+        "gain": 0.232
+      },
+      {
+        "band": 5,
+        "gain": 0.183
+      },
+      {
+        "band": 6,
+        "gain": 0.12
+      },
+      {
+        "band": 7,
+        "gain": 0.061
+      },
+      {
+        "band": 8,
+        "gain": 0.016
+      },
+      {
+        "band": 9,
+        "gain": -0.013
+      },
+      {
+        "band": 10,
+        "gain": -0.028
+      },
+      {
+        "band": 11,
+        "gain": -0.036
+      },
+      {
+        "band": 12,
+        "gain": -0.039
+      },
+      {
+        "band": 13,
+        "gain": -0.04
+      },
+      {
+        "band": 14,
+        "gain": -0.04
+      }
+    ]
+  },
+  "fx-25": {
+    "label": "Groove 25",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": 0.0
+      },
+      {
+        "band": 1,
+        "gain": 0.0
+      },
+      {
+        "band": 2,
+        "gain": 0.0
+      },
+      {
+        "band": 3,
+        "gain": 0.0
+      },
+      {
+        "band": 4,
+        "gain": 0.0
+      },
+      {
+        "band": 5,
+        "gain": 0.0
+      },
+      {
+        "band": 6,
+        "gain": 0.0
+      },
+      {
+        "band": 7,
+        "gain": 0.006
+      },
+      {
+        "band": 8,
+        "gain": 0.055
+      },
+      {
+        "band": 9,
+        "gain": 0.208
+      },
+      {
+        "band": 10,
+        "gain": 0.325
+      },
+      {
+        "band": 11,
+        "gain": 0.208
+      },
+      {
+        "band": 12,
+        "gain": 0.055
+      },
+      {
+        "band": 13,
+        "gain": 0.006
+      },
+      {
+        "band": 14,
+        "gain": 0.0
+      }
+    ]
+  },
+  "fx-26": {
+    "label": "Groove 26",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": 0.145
+      },
+      {
+        "band": 1,
+        "gain": 0.287
+      },
+      {
+        "band": 2,
+        "gain": 0.35
+      },
+      {
+        "band": 3,
+        "gain": 0.287
+      },
+      {
+        "band": 4,
+        "gain": 0.145
+      },
+      {
+        "band": 5,
+        "gain": 0.047
+      },
+      {
+        "band": 6,
+        "gain": 0.01
+      },
+      {
+        "band": 7,
+        "gain": 0.001
+      },
+      {
+        "band": 8,
+        "gain": 0.0
+      },
+      {
+        "band": 9,
+        "gain": 0.0
+      },
+      {
+        "band": 10,
+        "gain": 0.0
+      },
+      {
+        "band": 11,
+        "gain": 0.0
+      },
+      {
+        "band": 12,
+        "gain": 0.0
+      },
+      {
+        "band": 13,
+        "gain": 0.0
+      },
+      {
+        "band": 14,
+        "gain": 0.0
+      }
+    ]
+  },
+  "fx-27": {
+    "label": "Groove 27",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": 0.0
+      },
+      {
+        "band": 1,
+        "gain": 0.0
+      },
+      {
+        "band": 2,
+        "gain": 0.0
+      },
+      {
+        "band": 3,
+        "gain": 0.001
+      },
+      {
+        "band": 4,
+        "gain": 0.003
+      },
+      {
+        "band": 5,
+        "gain": 0.009
+      },
+      {
+        "band": 6,
+        "gain": 0.023
+      },
+      {
+        "band": 7,
+        "gain": 0.046
+      },
+      {
+        "band": 8,
+        "gain": 0.07
+      },
+      {
+        "band": 9,
+        "gain": 0.08
+      },
+      {
+        "band": 10,
+        "gain": 0.07
+      },
+      {
+        "band": 11,
+        "gain": 0.046
+      },
+      {
+        "band": 12,
+        "gain": 0.023
+      },
+      {
+        "band": 13,
+        "gain": 0.009
+      },
+      {
+        "band": 14,
+        "gain": 0.003
+      }
+    ]
+  },
+  "fx-28": {
+    "label": "Groove 28",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": 0.065
+      },
+      {
+        "band": 1,
+        "gain": 0.075
+      },
+      {
+        "band": 2,
+        "gain": 0.065
+      },
+      {
+        "band": 3,
+        "gain": 0.04
+      },
+      {
+        "band": 4,
+        "gain": 0.01
+      },
+      {
+        "band": 5,
+        "gain": -0.014
+      },
+      {
+        "band": 6,
+        "gain": -0.028
+      },
+      {
+        "band": 7,
+        "gain": -0.036
+      },
+      {
+        "band": 8,
+        "gain": -0.039
+      },
+      {
+        "band": 9,
+        "gain": -0.04
+      },
+      {
+        "band": 10,
+        "gain": -0.04
+      },
+      {
+        "band": 11,
+        "gain": -0.04
+      },
+      {
+        "band": 12,
+        "gain": -0.04
+      },
+      {
+        "band": 13,
+        "gain": -0.04
+      },
+      {
+        "band": 14,
+        "gain": -0.04
+      }
+    ]
+  },
+  "fx-29": {
+    "label": "Groove 29",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": 0.002
+      },
+      {
+        "band": 1,
+        "gain": 0.006
+      },
+      {
+        "band": 2,
+        "gain": 0.014
+      },
+      {
+        "band": 3,
+        "gain": 0.029
+      },
+      {
+        "band": 4,
+        "gain": 0.052
+      },
+      {
+        "band": 5,
+        "gain": 0.083
+      },
+      {
+        "band": 6,
+        "gain": 0.115
+      },
+      {
+        "band": 7,
+        "gain": 0.14
+      },
+      {
+        "band": 8,
+        "gain": 0.15
+      },
+      {
+        "band": 9,
+        "gain": 0.14
+      },
+      {
+        "band": 10,
+        "gain": 0.115
+      },
+      {
+        "band": 11,
+        "gain": 0.083
+      },
+      {
+        "band": 12,
+        "gain": 0.052
+      },
+      {
+        "band": 13,
+        "gain": 0.029
+      },
+      {
+        "band": 14,
+        "gain": 0.014
+      }
+    ]
+  },
+  "fx-30": {
+    "label": "Groove 30",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": 0.185
+      },
+      {
+        "band": 1,
+        "gain": 0.119
+      },
+      {
+        "band": 2,
+        "gain": 0.031
+      },
+      {
+        "band": 3,
+        "gain": 0.003
+      },
+      {
+        "band": 4,
+        "gain": 0.0
+      },
+      {
+        "band": 5,
+        "gain": 0.0
+      },
+      {
+        "band": 6,
+        "gain": 0.0
+      },
+      {
+        "band": 7,
+        "gain": 0.0
+      },
+      {
+        "band": 8,
+        "gain": 0.0
+      },
+      {
+        "band": 9,
+        "gain": 0.0
+      },
+      {
+        "band": 10,
+        "gain": 0.0
+      },
+      {
+        "band": 11,
+        "gain": 0.0
+      },
+      {
+        "band": 12,
+        "gain": 0.0
+      },
+      {
+        "band": 13,
+        "gain": 0.0
+      },
+      {
+        "band": 14,
+        "gain": 0.0
+      }
+    ]
+  },
+  "fx-31": {
+    "label": "Groove 31",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": 0.0
+      },
+      {
+        "band": 1,
+        "gain": 0.0
+      },
+      {
+        "band": 2,
+        "gain": 0.001
+      },
+      {
+        "band": 3,
+        "gain": 0.006
+      },
+      {
+        "band": 4,
+        "gain": 0.029
+      },
+      {
+        "band": 5,
+        "gain": 0.089
+      },
+      {
+        "band": 6,
+        "gain": 0.175
+      },
+      {
+        "band": 7,
+        "gain": 0.22
+      },
+      {
+        "band": 8,
+        "gain": 0.175
+      },
+      {
+        "band": 9,
+        "gain": 0.089
+      },
+      {
+        "band": 10,
+        "gain": 0.029
+      },
+      {
+        "band": 11,
+        "gain": 0.006
+      },
+      {
+        "band": 12,
+        "gain": 0.001
+      },
+      {
+        "band": 13,
+        "gain": 0.0
+      },
+      {
+        "band": 14,
+        "gain": 0.0
+      }
+    ]
+  },
+  "fx-32": {
+    "label": "Groove 32",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": -0.04
+      },
+      {
+        "band": 1,
+        "gain": -0.04
+      },
+      {
+        "band": 2,
+        "gain": -0.04
+      },
+      {
+        "band": 3,
+        "gain": -0.04
+      },
+      {
+        "band": 4,
+        "gain": -0.04
+      },
+      {
+        "band": 5,
+        "gain": -0.04
+      },
+      {
+        "band": 6,
+        "gain": -0.04
+      },
+      {
+        "band": 7,
+        "gain": -0.04
+      },
+      {
+        "band": 8,
+        "gain": -0.038
+      },
+      {
+        "band": 9,
+        "gain": -0.032
+      },
+      {
+        "band": 10,
+        "gain": -0.012
+      },
+      {
+        "band": 11,
+        "gain": 0.034
+      },
+      {
+        "band": 12,
+        "gain": 0.107
+      },
+      {
+        "band": 13,
+        "gain": 0.182
+      },
+      {
+        "band": 14,
+        "gain": 0.215
+      }
+    ]
+  },
+  "fx-33": {
+    "label": "Groove 33",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": 0.011
+      },
+      {
+        "band": 1,
+        "gain": 0.029
+      },
+      {
+        "band": 2,
+        "gain": 0.067
+      },
+      {
+        "band": 3,
+        "gain": 0.127
+      },
+      {
+        "band": 4,
+        "gain": 0.201
+      },
+      {
+        "band": 5,
+        "gain": 0.265
+      },
+      {
+        "band": 6,
+        "gain": 0.29
+      },
+      {
+        "band": 7,
+        "gain": 0.265
+      },
+      {
+        "band": 8,
+        "gain": 0.201
+      },
+      {
+        "band": 9,
+        "gain": 0.127
+      },
+      {
+        "band": 10,
+        "gain": 0.067
+      },
+      {
+        "band": 11,
+        "gain": 0.029
+      },
+      {
+        "band": 12,
+        "gain": 0.011
+      },
+      {
+        "band": 13,
+        "gain": 0.003
+      },
+      {
+        "band": 14,
+        "gain": 0.001
+      }
+    ]
+  },
+  "fx-34": {
+    "label": "Groove 34",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": 0.0
+      },
+      {
+        "band": 1,
+        "gain": 0.0
+      },
+      {
+        "band": 2,
+        "gain": 0.0
+      },
+      {
+        "band": 3,
+        "gain": 0.0
+      },
+      {
+        "band": 4,
+        "gain": 0.002
+      },
+      {
+        "band": 5,
+        "gain": 0.005
+      },
+      {
+        "band": 6,
+        "gain": 0.013
+      },
+      {
+        "band": 7,
+        "gain": 0.03
+      },
+      {
+        "band": 8,
+        "gain": 0.063
+      },
+      {
+        "band": 9,
+        "gain": 0.114
+      },
+      {
+        "band": 10,
+        "gain": 0.18
+      },
+      {
+        "band": 11,
+        "gain": 0.25
+      },
+      {
+        "band": 12,
+        "gain": 0.304
+      },
+      {
+        "band": 13,
+        "gain": 0.325
+      },
+      {
+        "band": 14,
+        "gain": 0.304
+      }
+    ]
+  },
+  "fx-35": {
+    "label": "Groove 35",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": 0.0
+      },
+      {
+        "band": 1,
+        "gain": 0.0
+      },
+      {
+        "band": 2,
+        "gain": 0.007
+      },
+      {
+        "band": 3,
+        "gain": 0.061
+      },
+      {
+        "band": 4,
+        "gain": 0.231
+      },
+      {
+        "band": 5,
+        "gain": 0.35
+      },
+      {
+        "band": 6,
+        "gain": 0.231
+      },
+      {
+        "band": 7,
+        "gain": 0.061
+      },
+      {
+        "band": 8,
+        "gain": 0.007
+      },
+      {
+        "band": 9,
+        "gain": 0.0
+      },
+      {
+        "band": 10,
+        "gain": 0.0
+      },
+      {
+        "band": 11,
+        "gain": 0.0
+      },
+      {
+        "band": 12,
+        "gain": 0.0
+      },
+      {
+        "band": 13,
+        "gain": 0.0
+      },
+      {
+        "band": 14,
+        "gain": 0.0
+      }
+    ]
+  },
+  "fx-36": {
+    "label": "Groove 36",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": -0.04
+      },
+      {
+        "band": 1,
+        "gain": -0.04
+      },
+      {
+        "band": 2,
+        "gain": -0.04
+      },
+      {
+        "band": 3,
+        "gain": -0.04
+      },
+      {
+        "band": 4,
+        "gain": -0.04
+      },
+      {
+        "band": 5,
+        "gain": -0.04
+      },
+      {
+        "band": 6,
+        "gain": -0.04
+      },
+      {
+        "band": 7,
+        "gain": -0.04
+      },
+      {
+        "band": 8,
+        "gain": -0.038
+      },
+      {
+        "band": 9,
+        "gain": -0.03
+      },
+      {
+        "band": 10,
+        "gain": -0.008
+      },
+      {
+        "band": 11,
+        "gain": 0.024
+      },
+      {
+        "band": 12,
+        "gain": 0.04
+      },
+      {
+        "band": 13,
+        "gain": 0.024
+      },
+      {
+        "band": 14,
+        "gain": -0.008
+      }
+    ]
+  },
+  "fx-37": {
+    "label": "Groove 37",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": 0.013
+      },
+      {
+        "band": 1,
+        "gain": 0.033
+      },
+      {
+        "band": 2,
+        "gain": 0.066
+      },
+      {
+        "band": 3,
+        "gain": 0.1
+      },
+      {
+        "band": 4,
+        "gain": 0.115
+      },
+      {
+        "band": 5,
+        "gain": 0.1
+      },
+      {
+        "band": 6,
+        "gain": 0.066
+      },
+      {
+        "band": 7,
+        "gain": 0.033
+      },
+      {
+        "band": 8,
+        "gain": 0.013
+      },
+      {
+        "band": 9,
+        "gain": 0.004
+      },
+      {
+        "band": 10,
+        "gain": 0.001
+      },
+      {
+        "band": 11,
+        "gain": 0.0
+      },
+      {
+        "band": 12,
+        "gain": 0.0
+      },
+      {
+        "band": 13,
+        "gain": 0.0
+      },
+      {
+        "band": 14,
+        "gain": 0.0
+      }
+    ]
+  },
+  "fx-38": {
+    "label": "Groove 38",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": 0.0
+      },
+      {
+        "band": 1,
+        "gain": 0.0
+      },
+      {
+        "band": 2,
+        "gain": 0.0
+      },
+      {
+        "band": 3,
+        "gain": 0.0
+      },
+      {
+        "band": 4,
+        "gain": 0.002
+      },
+      {
+        "band": 5,
+        "gain": 0.006
+      },
+      {
+        "band": 6,
+        "gain": 0.015
+      },
+      {
+        "band": 7,
+        "gain": 0.035
+      },
+      {
+        "band": 8,
+        "gain": 0.066
+      },
+      {
+        "band": 9,
+        "gain": 0.104
+      },
+      {
+        "band": 10,
+        "gain": 0.137
+      },
+      {
+        "band": 11,
+        "gain": 0.15
+      },
+      {
+        "band": 12,
+        "gain": 0.137
+      },
+      {
+        "band": 13,
+        "gain": 0.104
+      },
+      {
+        "band": 14,
+        "gain": 0.066
+      }
+    ]
+  },
+  "fx-39": {
+    "label": "Groove 39",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": 0.102
+      },
+      {
+        "band": 1,
+        "gain": 0.142
+      },
+      {
+        "band": 2,
+        "gain": 0.173
+      },
+      {
+        "band": 3,
+        "gain": 0.185
+      },
+      {
+        "band": 4,
+        "gain": 0.173
+      },
+      {
+        "band": 5,
+        "gain": 0.142
+      },
+      {
+        "band": 6,
+        "gain": 0.102
+      },
+      {
+        "band": 7,
+        "gain": 0.065
+      },
+      {
+        "band": 8,
+        "gain": 0.036
+      },
+      {
+        "band": 9,
+        "gain": 0.017
+      },
+      {
+        "band": 10,
+        "gain": 0.007
+      },
+      {
+        "band": 11,
+        "gain": 0.003
+      },
+      {
+        "band": 12,
+        "gain": 0.001
+      },
+      {
+        "band": 13,
+        "gain": 0.0
+      },
+      {
+        "band": 14,
+        "gain": 0.0
+      }
+    ]
+  },
+  "fx-40": {
+    "label": "Groove 40",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": -0.04
+      },
+      {
+        "band": 1,
+        "gain": -0.04
+      },
+      {
+        "band": 2,
+        "gain": -0.04
+      },
+      {
+        "band": 3,
+        "gain": -0.04
+      },
+      {
+        "band": 4,
+        "gain": -0.04
+      },
+      {
+        "band": 5,
+        "gain": -0.04
+      },
+      {
+        "band": 6,
+        "gain": -0.04
+      },
+      {
+        "band": 7,
+        "gain": -0.036
+      },
+      {
+        "band": 8,
+        "gain": -0.003
+      },
+      {
+        "band": 9,
+        "gain": 0.101
+      },
+      {
+        "band": 10,
+        "gain": 0.18
+      },
+      {
+        "band": 11,
+        "gain": 0.101
+      },
+      {
+        "band": 12,
+        "gain": -0.003
+      },
+      {
+        "band": 13,
+        "gain": -0.036
+      },
+      {
+        "band": 14,
+        "gain": -0.04
+      }
+    ]
+  },
+  "fx-41": {
+    "label": "Groove 41",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": 0.103
+      },
+      {
+        "band": 1,
+        "gain": 0.203
+      },
+      {
+        "band": 2,
+        "gain": 0.255
+      },
+      {
+        "band": 3,
+        "gain": 0.203
+      },
+      {
+        "band": 4,
+        "gain": 0.103
+      },
+      {
+        "band": 5,
+        "gain": 0.033
+      },
+      {
+        "band": 6,
+        "gain": 0.007
+      },
+      {
+        "band": 7,
+        "gain": 0.001
+      },
+      {
+        "band": 8,
+        "gain": 0.0
+      },
+      {
+        "band": 9,
+        "gain": 0.0
+      },
+      {
+        "band": 10,
+        "gain": 0.0
+      },
+      {
+        "band": 11,
+        "gain": 0.0
+      },
+      {
+        "band": 12,
+        "gain": 0.0
+      },
+      {
+        "band": 13,
+        "gain": 0.0
+      },
+      {
+        "band": 14,
+        "gain": 0.0
+      }
+    ]
+  },
+  "fx-42": {
+    "label": "Groove 42",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": 0.0
+      },
+      {
+        "band": 1,
+        "gain": 0.0
+      },
+      {
+        "band": 2,
+        "gain": 0.0
+      },
+      {
+        "band": 3,
+        "gain": 0.002
+      },
+      {
+        "band": 4,
+        "gain": 0.009
+      },
+      {
+        "band": 5,
+        "gain": 0.032
+      },
+      {
+        "band": 6,
+        "gain": 0.084
+      },
+      {
+        "band": 7,
+        "gain": 0.168
+      },
+      {
+        "band": 8,
+        "gain": 0.253
+      },
+      {
+        "band": 9,
+        "gain": 0.29
+      },
+      {
+        "band": 10,
+        "gain": 0.253
+      },
+      {
+        "band": 11,
+        "gain": 0.168
+      },
+      {
+        "band": 12,
+        "gain": 0.084
+      },
+      {
+        "band": 13,
+        "gain": 0.032
+      },
+      {
+        "band": 14,
+        "gain": 0.009
+      }
+    ]
+  },
+  "fx-43": {
+    "label": "Groove 43",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": 0.296
+      },
+      {
+        "band": 1,
+        "gain": 0.325
+      },
+      {
+        "band": 2,
+        "gain": 0.296
+      },
+      {
+        "band": 3,
+        "gain": 0.225
+      },
+      {
+        "band": 4,
+        "gain": 0.142
+      },
+      {
+        "band": 5,
+        "gain": 0.075
+      },
+      {
+        "band": 6,
+        "gain": 0.033
+      },
+      {
+        "band": 7,
+        "gain": 0.012
+      },
+      {
+        "band": 8,
+        "gain": 0.004
+      },
+      {
+        "band": 9,
+        "gain": 0.001
+      },
+      {
+        "band": 10,
+        "gain": 0.0
+      },
+      {
+        "band": 11,
+        "gain": 0.0
+      },
+      {
+        "band": 12,
+        "gain": 0.0
+      },
+      {
+        "band": 13,
+        "gain": 0.0
+      },
+      {
+        "band": 14,
+        "gain": 0.0
+      }
+    ]
+  },
+  "fx-44": {
+    "label": "Groove 44",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": -0.035
+      },
+      {
+        "band": 1,
+        "gain": -0.026
+      },
+      {
+        "band": 2,
+        "gain": -0.006
+      },
+      {
+        "band": 3,
+        "gain": 0.03
+      },
+      {
+        "band": 4,
+        "gain": 0.086
+      },
+      {
+        "band": 5,
+        "gain": 0.159
+      },
+      {
+        "band": 6,
+        "gain": 0.237
+      },
+      {
+        "band": 7,
+        "gain": 0.297
+      },
+      {
+        "band": 8,
+        "gain": 0.32
+      },
+      {
+        "band": 9,
+        "gain": 0.297
+      },
+      {
+        "band": 10,
+        "gain": 0.237
+      },
+      {
+        "band": 11,
+        "gain": 0.159
+      },
+      {
+        "band": 12,
+        "gain": 0.086
+      },
+      {
+        "band": 13,
+        "gain": 0.03
+      },
+      {
+        "band": 14,
+        "gain": -0.006
+      }
+    ]
+  },
+  "fx-45": {
+    "label": "Groove 45",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": 0.08
+      },
+      {
+        "band": 1,
+        "gain": 0.051
+      },
+      {
+        "band": 2,
+        "gain": 0.014
+      },
+      {
+        "band": 3,
+        "gain": 0.001
+      },
+      {
+        "band": 4,
+        "gain": 0.0
+      },
+      {
+        "band": 5,
+        "gain": 0.0
+      },
+      {
+        "band": 6,
+        "gain": 0.0
+      },
+      {
+        "band": 7,
+        "gain": 0.0
+      },
+      {
+        "band": 8,
+        "gain": 0.0
+      },
+      {
+        "band": 9,
+        "gain": 0.0
+      },
+      {
+        "band": 10,
+        "gain": 0.0
+      },
+      {
+        "band": 11,
+        "gain": 0.0
+      },
+      {
+        "band": 12,
+        "gain": 0.0
+      },
+      {
+        "band": 13,
+        "gain": 0.0
+      },
+      {
+        "band": 14,
+        "gain": 0.0
+      }
+    ]
+  },
+  "fx-46": {
+    "label": "Groove 46",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": 0.0
+      },
+      {
+        "band": 1,
+        "gain": 0.0
+      },
+      {
+        "band": 2,
+        "gain": 0.0
+      },
+      {
+        "band": 3,
+        "gain": 0.003
+      },
+      {
+        "band": 4,
+        "gain": 0.015
+      },
+      {
+        "band": 5,
+        "gain": 0.046
+      },
+      {
+        "band": 6,
+        "gain": 0.092
+      },
+      {
+        "band": 7,
+        "gain": 0.115
+      },
+      {
+        "band": 8,
+        "gain": 0.092
+      },
+      {
+        "band": 9,
+        "gain": 0.046
+      },
+      {
+        "band": 10,
+        "gain": 0.015
+      },
+      {
+        "band": 11,
+        "gain": 0.003
+      },
+      {
+        "band": 12,
+        "gain": 0.0
+      },
+      {
+        "band": 13,
+        "gain": 0.0
+      },
+      {
+        "band": 14,
+        "gain": 0.0
+      }
+    ]
+  },
+  "fx-47": {
+    "label": "Groove 47",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": 0.0
+      },
+      {
+        "band": 1,
+        "gain": 0.0
+      },
+      {
+        "band": 2,
+        "gain": 0.0
+      },
+      {
+        "band": 3,
+        "gain": 0.0
+      },
+      {
+        "band": 4,
+        "gain": 0.0
+      },
+      {
+        "band": 5,
+        "gain": 0.0
+      },
+      {
+        "band": 6,
+        "gain": 0.0
+      },
+      {
+        "band": 7,
+        "gain": 0.0
+      },
+      {
+        "band": 8,
+        "gain": 0.001
+      },
+      {
+        "band": 9,
+        "gain": 0.005
+      },
+      {
+        "band": 10,
+        "gain": 0.017
+      },
+      {
+        "band": 11,
+        "gain": 0.044
+      },
+      {
+        "band": 12,
+        "gain": 0.087
+      },
+      {
+        "band": 13,
+        "gain": 0.131
+      },
+      {
+        "band": 14,
+        "gain": 0.15
+      }
+    ]
+  },
+  "fx-48": {
+    "label": "Groove 48",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": -0.033
+      },
+      {
+        "band": 1,
+        "gain": -0.021
+      },
+      {
+        "band": 2,
+        "gain": 0.003
+      },
+      {
+        "band": 3,
+        "gain": 0.041
+      },
+      {
+        "band": 4,
+        "gain": 0.088
+      },
+      {
+        "band": 5,
+        "gain": 0.129
+      },
+      {
+        "band": 6,
+        "gain": 0.145
+      },
+      {
+        "band": 7,
+        "gain": 0.129
+      },
+      {
+        "band": 8,
+        "gain": 0.088
+      },
+      {
+        "band": 9,
+        "gain": 0.041
+      },
+      {
+        "band": 10,
+        "gain": 0.003
+      },
+      {
+        "band": 11,
+        "gain": -0.021
+      },
+      {
+        "band": 12,
+        "gain": -0.033
+      },
+      {
+        "band": 13,
+        "gain": -0.038
+      },
+      {
+        "band": 14,
+        "gain": -0.039
+      }
+    ]
+  },
+  "fx-49": {
+    "label": "Groove 49",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": 0.0
+      },
+      {
+        "band": 1,
+        "gain": 0.0
+      },
+      {
+        "band": 2,
+        "gain": 0.0
+      },
+      {
+        "band": 3,
+        "gain": 0.0
+      },
+      {
+        "band": 4,
+        "gain": 0.001
+      },
+      {
+        "band": 5,
+        "gain": 0.003
+      },
+      {
+        "band": 6,
+        "gain": 0.009
+      },
+      {
+        "band": 7,
+        "gain": 0.021
+      },
+      {
+        "band": 8,
+        "gain": 0.043
+      },
+      {
+        "band": 9,
+        "gain": 0.077
+      },
+      {
+        "band": 10,
+        "gain": 0.122
+      },
+      {
+        "band": 11,
+        "gain": 0.169
+      },
+      {
+        "band": 12,
+        "gain": 0.206
+      },
+      {
+        "band": 13,
+        "gain": 0.22
+      },
+      {
+        "band": 14,
+        "gain": 0.206
+      }
+    ]
+  },
+  "fx-50": {
+    "label": "Groove 50",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": 0.0
+      },
+      {
+        "band": 1,
+        "gain": 0.0
+      },
+      {
+        "band": 2,
+        "gain": 0.005
+      },
+      {
+        "band": 3,
+        "gain": 0.043
+      },
+      {
+        "band": 4,
+        "gain": 0.164
+      },
+      {
+        "band": 5,
+        "gain": 0.255
+      },
+      {
+        "band": 6,
+        "gain": 0.164
+      },
+      {
+        "band": 7,
+        "gain": 0.043
+      },
+      {
+        "band": 8,
+        "gain": 0.005
+      },
+      {
+        "band": 9,
+        "gain": 0.0
+      },
+      {
+        "band": 10,
+        "gain": 0.0
+      },
+      {
+        "band": 11,
+        "gain": 0.0
+      },
+      {
+        "band": 12,
+        "gain": 0.0
+      },
+      {
+        "band": 13,
+        "gain": 0.0
+      },
+      {
+        "band": 14,
+        "gain": 0.0
+      }
+    ]
+  },
+  "fx-51": {
+    "label": "Groove 51",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": 0.0
+      },
+      {
+        "band": 1,
+        "gain": 0.0
+      },
+      {
+        "band": 2,
+        "gain": 0.0
+      },
+      {
+        "band": 3,
+        "gain": 0.0
+      },
+      {
+        "band": 4,
+        "gain": 0.0
+      },
+      {
+        "band": 5,
+        "gain": 0.0
+      },
+      {
+        "band": 6,
+        "gain": 0.0
+      },
+      {
+        "band": 7,
+        "gain": 0.001
+      },
+      {
+        "band": 8,
+        "gain": 0.008
+      },
+      {
+        "band": 9,
+        "gain": 0.038
+      },
+      {
+        "band": 10,
+        "gain": 0.117
+      },
+      {
+        "band": 11,
+        "gain": 0.231
+      },
+      {
+        "band": 12,
+        "gain": 0.29
+      },
+      {
+        "band": 13,
+        "gain": 0.231
+      },
+      {
+        "band": 14,
+        "gain": 0.117
+      }
+    ]
+  },
+  "fx-52": {
+    "label": "Groove 52",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": -0.004
+      },
+      {
+        "band": 1,
+        "gain": 0.055
+      },
+      {
+        "band": 2,
+        "gain": 0.148
+      },
+      {
+        "band": 3,
+        "gain": 0.243
+      },
+      {
+        "band": 4,
+        "gain": 0.285
+      },
+      {
+        "band": 5,
+        "gain": 0.243
+      },
+      {
+        "band": 6,
+        "gain": 0.148
+      },
+      {
+        "band": 7,
+        "gain": 0.055
+      },
+      {
+        "band": 8,
+        "gain": -0.004
+      },
+      {
+        "band": 9,
+        "gain": -0.029
+      },
+      {
+        "band": 10,
+        "gain": -0.038
+      },
+      {
+        "band": 11,
+        "gain": -0.04
+      },
+      {
+        "band": 12,
+        "gain": -0.04
+      },
+      {
+        "band": 13,
+        "gain": -0.04
+      },
+      {
+        "band": 14,
+        "gain": -0.04
+      }
+    ]
+  },
+  "fx-53": {
+    "label": "Groove 53",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": 0.0
+      },
+      {
+        "band": 1,
+        "gain": 0.0
+      },
+      {
+        "band": 2,
+        "gain": 0.0
+      },
+      {
+        "band": 3,
+        "gain": 0.001
+      },
+      {
+        "band": 4,
+        "gain": 0.004
+      },
+      {
+        "band": 5,
+        "gain": 0.013
+      },
+      {
+        "band": 6,
+        "gain": 0.036
+      },
+      {
+        "band": 7,
+        "gain": 0.083
+      },
+      {
+        "band": 8,
+        "gain": 0.158
+      },
+      {
+        "band": 9,
+        "gain": 0.249
+      },
+      {
+        "band": 10,
+        "gain": 0.328
+      },
+      {
+        "band": 11,
+        "gain": 0.35
+      },
+      {
+        "band": 12,
+        "gain": 0.328
+      },
+      {
+        "band": 13,
+        "gain": 0.249
+      },
+      {
+        "band": 14,
+        "gain": 0.158
+      }
+    ]
+  },
+  "fx-54": {
+    "label": "Groove 54",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": 0.044
+      },
+      {
+        "band": 1,
+        "gain": 0.062
+      },
+      {
+        "band": 2,
+        "gain": 0.075
+      },
+      {
+        "band": 3,
+        "gain": 0.08
+      },
+      {
+        "band": 4,
+        "gain": 0.075
+      },
+      {
+        "band": 5,
+        "gain": 0.062
+      },
+      {
+        "band": 6,
+        "gain": 0.044
+      },
+      {
+        "band": 7,
+        "gain": 0.028
+      },
+      {
+        "band": 8,
+        "gain": 0.015
+      },
+      {
+        "band": 9,
+        "gain": 0.008
+      },
+      {
+        "band": 10,
+        "gain": 0.003
+      },
+      {
+        "band": 11,
+        "gain": 0.001
+      },
+      {
+        "band": 12,
+        "gain": 0.0
+      },
+      {
+        "band": 13,
+        "gain": 0.0
+      },
+      {
+        "band": 14,
+        "gain": 0.0
+      }
+    ]
+  },
+  "fx-55": {
+    "label": "Groove 55",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": 0.0
+      },
+      {
+        "band": 1,
+        "gain": 0.0
+      },
+      {
+        "band": 2,
+        "gain": 0.0
+      },
+      {
+        "band": 3,
+        "gain": 0.0
+      },
+      {
+        "band": 4,
+        "gain": 0.0
+      },
+      {
+        "band": 5,
+        "gain": 0.0
+      },
+      {
+        "band": 6,
+        "gain": 0.0
+      },
+      {
+        "band": 7,
+        "gain": 0.002
+      },
+      {
+        "band": 8,
+        "gain": 0.019
+      },
+      {
+        "band": 9,
+        "gain": 0.074
+      },
+      {
+        "band": 10,
+        "gain": 0.115
+      },
+      {
+        "band": 11,
+        "gain": 0.074
+      },
+      {
+        "band": 12,
+        "gain": 0.019
+      },
+      {
+        "band": 13,
+        "gain": 0.002
+      },
+      {
+        "band": 14,
+        "gain": 0.0
+      }
+    ]
+  },
+  "fx-56": {
+    "label": "Groove 56",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": 0.021
+      },
+      {
+        "band": 1,
+        "gain": 0.08
+      },
+      {
+        "band": 2,
+        "gain": 0.11
+      },
+      {
+        "band": 3,
+        "gain": 0.08
+      },
+      {
+        "band": 4,
+        "gain": 0.021
+      },
+      {
+        "band": 5,
+        "gain": -0.021
+      },
+      {
+        "band": 6,
+        "gain": -0.036
+      },
+      {
+        "band": 7,
+        "gain": -0.039
+      },
+      {
+        "band": 8,
+        "gain": -0.04
+      },
+      {
+        "band": 9,
+        "gain": -0.04
+      },
+      {
+        "band": 10,
+        "gain": -0.04
+      },
+      {
+        "band": 11,
+        "gain": -0.04
+      },
+      {
+        "band": 12,
+        "gain": -0.04
+      },
+      {
+        "band": 13,
+        "gain": -0.04
+      },
+      {
+        "band": 14,
+        "gain": -0.04
+      }
+    ]
+  },
+  "fx-57": {
+    "label": "Groove 57",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": 0.0
+      },
+      {
+        "band": 1,
+        "gain": 0.0
+      },
+      {
+        "band": 2,
+        "gain": 0.0
+      },
+      {
+        "band": 3,
+        "gain": 0.001
+      },
+      {
+        "band": 4,
+        "gain": 0.006
+      },
+      {
+        "band": 5,
+        "gain": 0.021
+      },
+      {
+        "band": 6,
+        "gain": 0.054
+      },
+      {
+        "band": 7,
+        "gain": 0.107
+      },
+      {
+        "band": 8,
+        "gain": 0.161
+      },
+      {
+        "band": 9,
+        "gain": 0.185
+      },
+      {
+        "band": 10,
+        "gain": 0.161
+      },
+      {
+        "band": 11,
+        "gain": 0.107
+      },
+      {
+        "band": 12,
+        "gain": 0.054
+      },
+      {
+        "band": 13,
+        "gain": 0.021
+      },
+      {
+        "band": 14,
+        "gain": 0.006
+      }
+    ]
+  },
+  "fx-58": {
+    "label": "Groove 58",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": 0.201
+      },
+      {
+        "band": 1,
+        "gain": 0.22
+      },
+      {
+        "band": 2,
+        "gain": 0.201
+      },
+      {
+        "band": 3,
+        "gain": 0.152
+      },
+      {
+        "band": 4,
+        "gain": 0.096
+      },
+      {
+        "band": 5,
+        "gain": 0.051
+      },
+      {
+        "band": 6,
+        "gain": 0.022
+      },
+      {
+        "band": 7,
+        "gain": 0.008
+      },
+      {
+        "band": 8,
+        "gain": 0.002
+      },
+      {
+        "band": 9,
+        "gain": 0.001
+      },
+      {
+        "band": 10,
+        "gain": 0.0
+      },
+      {
+        "band": 11,
+        "gain": 0.0
+      },
+      {
+        "band": 12,
+        "gain": 0.0
+      },
+      {
+        "band": 13,
+        "gain": 0.0
+      },
+      {
+        "band": 14,
+        "gain": 0.0
+      }
+    ]
+  },
+  "fx-59": {
+    "label": "Groove 59",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": 0.004
+      },
+      {
+        "band": 1,
+        "gain": 0.01
+      },
+      {
+        "band": 2,
+        "gain": 0.024
+      },
+      {
+        "band": 3,
+        "gain": 0.049
+      },
+      {
+        "band": 4,
+        "gain": 0.089
+      },
+      {
+        "band": 5,
+        "gain": 0.141
+      },
+      {
+        "band": 6,
+        "gain": 0.196
+      },
+      {
+        "band": 7,
+        "gain": 0.239
+      },
+      {
+        "band": 8,
+        "gain": 0.255
+      },
+      {
+        "band": 9,
+        "gain": 0.239
+      },
+      {
+        "band": 10,
+        "gain": 0.196
+      },
+      {
+        "band": 11,
+        "gain": 0.141
+      },
+      {
+        "band": 12,
+        "gain": 0.089
+      },
+      {
+        "band": 13,
+        "gain": 0.049
+      },
+      {
+        "band": 14,
+        "gain": 0.024
+      }
+    ]
+  },
+  "fx-60": {
+    "label": "Groove 60",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": 0.25
+      },
+      {
+        "band": 1,
+        "gain": 0.146
+      },
+      {
+        "band": 2,
+        "gain": 0.009
+      },
+      {
+        "band": 3,
+        "gain": -0.035
+      },
+      {
+        "band": 4,
+        "gain": -0.04
+      },
+      {
+        "band": 5,
+        "gain": -0.04
+      },
+      {
+        "band": 6,
+        "gain": -0.04
+      },
+      {
+        "band": 7,
+        "gain": -0.04
+      },
+      {
+        "band": 8,
+        "gain": -0.04
+      },
+      {
+        "band": 9,
+        "gain": -0.04
+      },
+      {
+        "band": 10,
+        "gain": -0.04
+      },
+      {
+        "band": 11,
+        "gain": -0.04
+      },
+      {
+        "band": 12,
+        "gain": -0.04
+      },
+      {
+        "band": 13,
+        "gain": -0.04
+      },
+      {
+        "band": 14,
+        "gain": -0.04
+      }
+    ]
+  },
+  "fx-61": {
+    "label": "Groove 61",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": 0.0
+      },
+      {
+        "band": 1,
+        "gain": 0.0
+      },
+      {
+        "band": 2,
+        "gain": 0.001
+      },
+      {
+        "band": 3,
+        "gain": 0.009
+      },
+      {
+        "band": 4,
+        "gain": 0.042
+      },
+      {
+        "band": 5,
+        "gain": 0.131
+      },
+      {
+        "band": 6,
+        "gain": 0.259
+      },
+      {
+        "band": 7,
+        "gain": 0.325
+      },
+      {
+        "band": 8,
+        "gain": 0.259
+      },
+      {
+        "band": 9,
+        "gain": 0.131
+      },
+      {
+        "band": 10,
+        "gain": 0.042
+      },
+      {
+        "band": 11,
+        "gain": 0.009
+      },
+      {
+        "band": 12,
+        "gain": 0.001
+      },
+      {
+        "band": 13,
+        "gain": 0.0
+      },
+      {
+        "band": 14,
+        "gain": 0.0
+      }
+    ]
+  },
+  "fx-62": {
+    "label": "Groove 62",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": 0.0
+      },
+      {
+        "band": 1,
+        "gain": 0.0
+      },
+      {
+        "band": 2,
+        "gain": 0.0
+      },
+      {
+        "band": 3,
+        "gain": 0.0
+      },
+      {
+        "band": 4,
+        "gain": 0.0
+      },
+      {
+        "band": 5,
+        "gain": 0.0
+      },
+      {
+        "band": 6,
+        "gain": 0.0
+      },
+      {
+        "band": 7,
+        "gain": 0.0
+      },
+      {
+        "band": 8,
+        "gain": 0.003
+      },
+      {
+        "band": 9,
+        "gain": 0.012
+      },
+      {
+        "band": 10,
+        "gain": 0.04
+      },
+      {
+        "band": 11,
+        "gain": 0.105
+      },
+      {
+        "band": 12,
+        "gain": 0.208
+      },
+      {
+        "band": 13,
+        "gain": 0.314
+      },
+      {
+        "band": 14,
+        "gain": 0.35
+      }
+    ]
+  },
+  "fx-63": {
+    "label": "Groove 63",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": 0.003
+      },
+      {
+        "band": 1,
+        "gain": 0.008
+      },
+      {
+        "band": 2,
+        "gain": 0.018
+      },
+      {
+        "band": 3,
+        "gain": 0.035
+      },
+      {
+        "band": 4,
+        "gain": 0.055
+      },
+      {
+        "band": 5,
+        "gain": 0.073
+      },
+      {
+        "band": 6,
+        "gain": 0.08
+      },
+      {
+        "band": 7,
+        "gain": 0.073
+      },
+      {
+        "band": 8,
+        "gain": 0.055
+      },
+      {
+        "band": 9,
+        "gain": 0.035
+      },
+      {
+        "band": 10,
+        "gain": 0.018
+      },
+      {
+        "band": 11,
+        "gain": 0.008
+      },
+      {
+        "band": 12,
+        "gain": 0.003
+      },
+      {
+        "band": 13,
+        "gain": 0.001
+      },
+      {
+        "band": 14,
+        "gain": 0.0
+      }
+    ]
+  },
+  "fx-64": {
+    "label": "Groove 64",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": -0.04
+      },
+      {
+        "band": 1,
+        "gain": -0.04
+      },
+      {
+        "band": 2,
+        "gain": -0.04
+      },
+      {
+        "band": 3,
+        "gain": -0.04
+      },
+      {
+        "band": 4,
+        "gain": -0.039
+      },
+      {
+        "band": 5,
+        "gain": -0.038
+      },
+      {
+        "band": 6,
+        "gain": -0.035
+      },
+      {
+        "band": 7,
+        "gain": -0.029
+      },
+      {
+        "band": 8,
+        "gain": -0.018
+      },
+      {
+        "band": 9,
+        "gain": 0.0
+      },
+      {
+        "band": 10,
+        "gain": 0.024
+      },
+      {
+        "band": 11,
+        "gain": 0.048
+      },
+      {
+        "band": 12,
+        "gain": 0.068
+      },
+      {
+        "band": 13,
+        "gain": 0.075
+      },
+      {
+        "band": 14,
+        "gain": 0.068
+      }
+    ]
+  },
+  "fx-65": {
+    "label": "Groove 65",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": 0.0
+      },
+      {
+        "band": 1,
+        "gain": 0.0
+      },
+      {
+        "band": 2,
+        "gain": 0.003
+      },
+      {
+        "band": 3,
+        "gain": 0.025
+      },
+      {
+        "band": 4,
+        "gain": 0.096
+      },
+      {
+        "band": 5,
+        "gain": 0.15
+      },
+      {
+        "band": 6,
+        "gain": 0.096
+      },
+      {
+        "band": 7,
+        "gain": 0.025
+      },
+      {
+        "band": 8,
+        "gain": 0.003
+      },
+      {
+        "band": 9,
+        "gain": 0.0
+      },
+      {
+        "band": 10,
+        "gain": 0.0
+      },
+      {
+        "band": 11,
+        "gain": 0.0
+      },
+      {
+        "band": 12,
+        "gain": 0.0
+      },
+      {
+        "band": 13,
+        "gain": 0.0
+      },
+      {
+        "band": 14,
+        "gain": 0.0
+      }
+    ]
+  },
+  "fx-66": {
+    "label": "Groove 66",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": 0.0
+      },
+      {
+        "band": 1,
+        "gain": 0.0
+      },
+      {
+        "band": 2,
+        "gain": 0.0
+      },
+      {
+        "band": 3,
+        "gain": 0.0
+      },
+      {
+        "band": 4,
+        "gain": 0.0
+      },
+      {
+        "band": 5,
+        "gain": 0.0
+      },
+      {
+        "band": 6,
+        "gain": 0.0
+      },
+      {
+        "band": 7,
+        "gain": 0.001
+      },
+      {
+        "band": 8,
+        "gain": 0.005
+      },
+      {
+        "band": 9,
+        "gain": 0.024
+      },
+      {
+        "band": 10,
+        "gain": 0.075
+      },
+      {
+        "band": 11,
+        "gain": 0.147
+      },
+      {
+        "band": 12,
+        "gain": 0.185
+      },
+      {
+        "band": 13,
+        "gain": 0.147
+      },
+      {
+        "band": 14,
+        "gain": 0.075
+      }
+    ]
+  },
+  "fx-67": {
+    "label": "Groove 67",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": 0.025
+      },
+      {
+        "band": 1,
+        "gain": 0.064
+      },
+      {
+        "band": 2,
+        "gain": 0.127
+      },
+      {
+        "band": 3,
+        "gain": 0.192
+      },
+      {
+        "band": 4,
+        "gain": 0.22
+      },
+      {
+        "band": 5,
+        "gain": 0.192
+      },
+      {
+        "band": 6,
+        "gain": 0.127
+      },
+      {
+        "band": 7,
+        "gain": 0.064
+      },
+      {
+        "band": 8,
+        "gain": 0.025
+      },
+      {
+        "band": 9,
+        "gain": 0.007
+      },
+      {
+        "band": 10,
+        "gain": 0.002
+      },
+      {
+        "band": 11,
+        "gain": 0.0
+      },
+      {
+        "band": 12,
+        "gain": 0.0
+      },
+      {
+        "band": 13,
+        "gain": 0.0
+      },
+      {
+        "band": 14,
+        "gain": 0.0
+      }
+    ]
+  },
+  "fx-68": {
+    "label": "Groove 68",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": -0.04
+      },
+      {
+        "band": 1,
+        "gain": -0.04
+      },
+      {
+        "band": 2,
+        "gain": -0.04
+      },
+      {
+        "band": 3,
+        "gain": -0.039
+      },
+      {
+        "band": 4,
+        "gain": -0.037
+      },
+      {
+        "band": 5,
+        "gain": -0.031
+      },
+      {
+        "band": 6,
+        "gain": -0.014
+      },
+      {
+        "band": 7,
+        "gain": 0.019
+      },
+      {
+        "band": 8,
+        "gain": 0.072
+      },
+      {
+        "band": 9,
+        "gain": 0.137
+      },
+      {
+        "band": 10,
+        "gain": 0.193
+      },
+      {
+        "band": 11,
+        "gain": 0.215
+      },
+      {
+        "band": 12,
+        "gain": 0.193
+      },
+      {
+        "band": 13,
+        "gain": 0.137
+      },
+      {
+        "band": 14,
+        "gain": 0.072
+      }
+    ]
+  },
+  "fx-69": {
+    "label": "Groove 69",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": 0.16
+      },
+      {
+        "band": 1,
+        "gain": 0.223
+      },
+      {
+        "band": 2,
+        "gain": 0.272
+      },
+      {
+        "band": 3,
+        "gain": 0.29
+      },
+      {
+        "band": 4,
+        "gain": 0.272
+      },
+      {
+        "band": 5,
+        "gain": 0.223
+      },
+      {
+        "band": 6,
+        "gain": 0.16
+      },
+      {
+        "band": 7,
+        "gain": 0.101
+      },
+      {
+        "band": 8,
+        "gain": 0.056
+      },
+      {
+        "band": 9,
+        "gain": 0.027
+      },
+      {
+        "band": 10,
+        "gain": 0.012
+      },
+      {
+        "band": 11,
+        "gain": 0.004
+      },
+      {
+        "band": 12,
+        "gain": 0.001
+      },
+      {
+        "band": 13,
+        "gain": 0.0
+      },
+      {
+        "band": 14,
+        "gain": 0.0
+      }
+    ]
+  },
+  "fx-70": {
+    "label": "Groove 70",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": 0.0
+      },
+      {
+        "band": 1,
+        "gain": 0.0
+      },
+      {
+        "band": 2,
+        "gain": 0.0
+      },
+      {
+        "band": 3,
+        "gain": 0.0
+      },
+      {
+        "band": 4,
+        "gain": 0.0
+      },
+      {
+        "band": 5,
+        "gain": 0.0
+      },
+      {
+        "band": 6,
+        "gain": 0.0
+      },
+      {
+        "band": 7,
+        "gain": 0.006
+      },
+      {
+        "band": 8,
+        "gain": 0.055
+      },
+      {
+        "band": 9,
+        "gain": 0.208
+      },
+      {
+        "band": 10,
+        "gain": 0.325
+      },
+      {
+        "band": 11,
+        "gain": 0.208
+      },
+      {
+        "band": 12,
+        "gain": 0.055
+      },
+      {
+        "band": 13,
+        "gain": 0.006
+      },
+      {
+        "band": 14,
+        "gain": 0.0
+      }
+    ]
+  },
+  "fx-71": {
+    "label": "Groove 71",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": 0.145
+      },
+      {
+        "band": 1,
+        "gain": 0.287
+      },
+      {
+        "band": 2,
+        "gain": 0.35
+      },
+      {
+        "band": 3,
+        "gain": 0.287
+      },
+      {
+        "band": 4,
+        "gain": 0.145
+      },
+      {
+        "band": 5,
+        "gain": 0.047
+      },
+      {
+        "band": 6,
+        "gain": 0.01
+      },
+      {
+        "band": 7,
+        "gain": 0.001
+      },
+      {
+        "band": 8,
+        "gain": 0.0
+      },
+      {
+        "band": 9,
+        "gain": 0.0
+      },
+      {
+        "band": 10,
+        "gain": 0.0
+      },
+      {
+        "band": 11,
+        "gain": 0.0
+      },
+      {
+        "band": 12,
+        "gain": 0.0
+      },
+      {
+        "band": 13,
+        "gain": 0.0
+      },
+      {
+        "band": 14,
+        "gain": 0.0
+      }
+    ]
+  },
+  "fx-72": {
+    "label": "Groove 72",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": -0.04
+      },
+      {
+        "band": 1,
+        "gain": -0.04
+      },
+      {
+        "band": 2,
+        "gain": -0.04
+      },
+      {
+        "band": 3,
+        "gain": -0.039
+      },
+      {
+        "band": 4,
+        "gain": -0.037
+      },
+      {
+        "band": 5,
+        "gain": -0.031
+      },
+      {
+        "band": 6,
+        "gain": -0.017
+      },
+      {
+        "band": 7,
+        "gain": 0.006
+      },
+      {
+        "band": 8,
+        "gain": 0.03
+      },
+      {
+        "band": 9,
+        "gain": 0.04
+      },
+      {
+        "band": 10,
+        "gain": 0.03
+      },
+      {
+        "band": 11,
+        "gain": 0.006
+      },
+      {
+        "band": 12,
+        "gain": -0.017
+      },
+      {
+        "band": 13,
+        "gain": -0.031
+      },
+      {
+        "band": 14,
+        "gain": -0.037
+      }
+    ]
+  },
+  "fx-73": {
+    "label": "Groove 73",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": 0.105
+      },
+      {
+        "band": 1,
+        "gain": 0.115
+      },
+      {
+        "band": 2,
+        "gain": 0.105
+      },
+      {
+        "band": 3,
+        "gain": 0.08
+      },
+      {
+        "band": 4,
+        "gain": 0.05
+      },
+      {
+        "band": 5,
+        "gain": 0.026
+      },
+      {
+        "band": 6,
+        "gain": 0.012
+      },
+      {
+        "band": 7,
+        "gain": 0.004
+      },
+      {
+        "band": 8,
+        "gain": 0.001
+      },
+      {
+        "band": 9,
+        "gain": 0.0
+      },
+      {
+        "band": 10,
+        "gain": 0.0
+      },
+      {
+        "band": 11,
+        "gain": 0.0
+      },
+      {
+        "band": 12,
+        "gain": 0.0
+      },
+      {
+        "band": 13,
+        "gain": 0.0
+      },
+      {
+        "band": 14,
+        "gain": 0.0
+      }
+    ]
+  },
+  "fx-74": {
+    "label": "Groove 74",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": 0.002
+      },
+      {
+        "band": 1,
+        "gain": 0.006
+      },
+      {
+        "band": 2,
+        "gain": 0.014
+      },
+      {
+        "band": 3,
+        "gain": 0.029
+      },
+      {
+        "band": 4,
+        "gain": 0.052
+      },
+      {
+        "band": 5,
+        "gain": 0.083
+      },
+      {
+        "band": 6,
+        "gain": 0.115
+      },
+      {
+        "band": 7,
+        "gain": 0.14
+      },
+      {
+        "band": 8,
+        "gain": 0.15
+      },
+      {
+        "band": 9,
+        "gain": 0.14
+      },
+      {
+        "band": 10,
+        "gain": 0.115
+      },
+      {
+        "band": 11,
+        "gain": 0.083
+      },
+      {
+        "band": 12,
+        "gain": 0.052
+      },
+      {
+        "band": 13,
+        "gain": 0.029
+      },
+      {
+        "band": 14,
+        "gain": 0.014
+      }
+    ]
+  },
+  "fx-75": {
+    "label": "Groove 75",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": 0.185
+      },
+      {
+        "band": 1,
+        "gain": 0.119
+      },
+      {
+        "band": 2,
+        "gain": 0.031
+      },
+      {
+        "band": 3,
+        "gain": 0.003
+      },
+      {
+        "band": 4,
+        "gain": 0.0
+      },
+      {
+        "band": 5,
+        "gain": 0.0
+      },
+      {
+        "band": 6,
+        "gain": 0.0
+      },
+      {
+        "band": 7,
+        "gain": 0.0
+      },
+      {
+        "band": 8,
+        "gain": 0.0
+      },
+      {
+        "band": 9,
+        "gain": 0.0
+      },
+      {
+        "band": 10,
+        "gain": 0.0
+      },
+      {
+        "band": 11,
+        "gain": 0.0
+      },
+      {
+        "band": 12,
+        "gain": 0.0
+      },
+      {
+        "band": 13,
+        "gain": 0.0
+      },
+      {
+        "band": 14,
+        "gain": 0.0
+      }
+    ]
+  },
+  "fx-76": {
+    "label": "Groove 76",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": -0.04
+      },
+      {
+        "band": 1,
+        "gain": -0.04
+      },
+      {
+        "band": 2,
+        "gain": -0.039
+      },
+      {
+        "band": 3,
+        "gain": -0.034
+      },
+      {
+        "band": 4,
+        "gain": -0.011
+      },
+      {
+        "band": 5,
+        "gain": 0.049
+      },
+      {
+        "band": 6,
+        "gain": 0.135
+      },
+      {
+        "band": 7,
+        "gain": 0.18
+      },
+      {
+        "band": 8,
+        "gain": 0.135
+      },
+      {
+        "band": 9,
+        "gain": 0.049
+      },
+      {
+        "band": 10,
+        "gain": -0.011
+      },
+      {
+        "band": 11,
+        "gain": -0.034
+      },
+      {
+        "band": 12,
+        "gain": -0.039
+      },
+      {
+        "band": 13,
+        "gain": -0.04
+      },
+      {
+        "band": 14,
+        "gain": -0.04
+      }
+    ]
+  },
+  "fx-77": {
+    "label": "Groove 77",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": 0.0
+      },
+      {
+        "band": 1,
+        "gain": 0.0
+      },
+      {
+        "band": 2,
+        "gain": 0.0
+      },
+      {
+        "band": 3,
+        "gain": 0.0
+      },
+      {
+        "band": 4,
+        "gain": 0.0
+      },
+      {
+        "band": 5,
+        "gain": 0.0
+      },
+      {
+        "band": 6,
+        "gain": 0.0
+      },
+      {
+        "band": 7,
+        "gain": 0.0
+      },
+      {
+        "band": 8,
+        "gain": 0.002
+      },
+      {
+        "band": 9,
+        "gain": 0.008
+      },
+      {
+        "band": 10,
+        "gain": 0.028
+      },
+      {
+        "band": 11,
+        "gain": 0.074
+      },
+      {
+        "band": 12,
+        "gain": 0.147
+      },
+      {
+        "band": 13,
+        "gain": 0.222
+      },
+      {
+        "band": 14,
+        "gain": 0.255
+      }
+    ]
+  },
+  "fx-78": {
+    "label": "Groove 78",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": 0.011
+      },
+      {
+        "band": 1,
+        "gain": 0.029
+      },
+      {
+        "band": 2,
+        "gain": 0.067
+      },
+      {
+        "band": 3,
+        "gain": 0.127
+      },
+      {
+        "band": 4,
+        "gain": 0.201
+      },
+      {
+        "band": 5,
+        "gain": 0.265
+      },
+      {
+        "band": 6,
+        "gain": 0.29
+      },
+      {
+        "band": 7,
+        "gain": 0.265
+      },
+      {
+        "band": 8,
+        "gain": 0.201
+      },
+      {
+        "band": 9,
+        "gain": 0.127
+      },
+      {
+        "band": 10,
+        "gain": 0.067
+      },
+      {
+        "band": 11,
+        "gain": 0.029
+      },
+      {
+        "band": 12,
+        "gain": 0.011
+      },
+      {
+        "band": 13,
+        "gain": 0.003
+      },
+      {
+        "band": 14,
+        "gain": 0.001
+      }
+    ]
+  },
+  "fx-79": {
+    "label": "Groove 79",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": 0.0
+      },
+      {
+        "band": 1,
+        "gain": 0.0
+      },
+      {
+        "band": 2,
+        "gain": 0.0
+      },
+      {
+        "band": 3,
+        "gain": 0.0
+      },
+      {
+        "band": 4,
+        "gain": 0.002
+      },
+      {
+        "band": 5,
+        "gain": 0.005
+      },
+      {
+        "band": 6,
+        "gain": 0.013
+      },
+      {
+        "band": 7,
+        "gain": 0.03
+      },
+      {
+        "band": 8,
+        "gain": 0.063
+      },
+      {
+        "band": 9,
+        "gain": 0.114
+      },
+      {
+        "band": 10,
+        "gain": 0.18
+      },
+      {
+        "band": 11,
+        "gain": 0.25
+      },
+      {
+        "band": 12,
+        "gain": 0.304
+      },
+      {
+        "band": 13,
+        "gain": 0.325
+      },
+      {
+        "band": 14,
+        "gain": 0.304
+      }
+    ]
+  },
+  "fx-80": {
+    "label": "Groove 80",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": -0.04
+      },
+      {
+        "band": 1,
+        "gain": -0.04
+      },
+      {
+        "band": 2,
+        "gain": -0.033
+      },
+      {
+        "band": 3,
+        "gain": 0.021
+      },
+      {
+        "band": 4,
+        "gain": 0.191
+      },
+      {
+        "band": 5,
+        "gain": 0.32
+      },
+      {
+        "band": 6,
+        "gain": 0.191
+      },
+      {
+        "band": 7,
+        "gain": 0.021
+      },
+      {
+        "band": 8,
+        "gain": -0.033
+      },
+      {
+        "band": 9,
+        "gain": -0.04
+      },
+      {
+        "band": 10,
+        "gain": -0.04
+      },
+      {
+        "band": 11,
+        "gain": -0.04
+      },
+      {
+        "band": 12,
+        "gain": -0.04
+      },
+      {
+        "band": 13,
+        "gain": -0.04
+      },
+      {
+        "band": 14,
+        "gain": -0.04
+      }
+    ]
+  },
+  "fx-81": {
+    "label": "Groove 81",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": 0.0
+      },
+      {
+        "band": 1,
+        "gain": 0.0
+      },
+      {
+        "band": 2,
+        "gain": 0.0
+      },
+      {
+        "band": 3,
+        "gain": 0.0
+      },
+      {
+        "band": 4,
+        "gain": 0.0
+      },
+      {
+        "band": 5,
+        "gain": 0.0
+      },
+      {
+        "band": 6,
+        "gain": 0.0
+      },
+      {
+        "band": 7,
+        "gain": 0.0
+      },
+      {
+        "band": 8,
+        "gain": 0.002
+      },
+      {
+        "band": 9,
+        "gain": 0.01
+      },
+      {
+        "band": 10,
+        "gain": 0.032
+      },
+      {
+        "band": 11,
+        "gain": 0.064
+      },
+      {
+        "band": 12,
+        "gain": 0.08
+      },
+      {
+        "band": 13,
+        "gain": 0.064
+      },
+      {
+        "band": 14,
+        "gain": 0.032
+      }
+    ]
+  },
+  "fx-82": {
+    "label": "Groove 82",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": 0.013
+      },
+      {
+        "band": 1,
+        "gain": 0.033
+      },
+      {
+        "band": 2,
+        "gain": 0.066
+      },
+      {
+        "band": 3,
+        "gain": 0.1
+      },
+      {
+        "band": 4,
+        "gain": 0.115
+      },
+      {
+        "band": 5,
+        "gain": 0.1
+      },
+      {
+        "band": 6,
+        "gain": 0.066
+      },
+      {
+        "band": 7,
+        "gain": 0.033
+      },
+      {
+        "band": 8,
+        "gain": 0.013
+      },
+      {
+        "band": 9,
+        "gain": 0.004
+      },
+      {
+        "band": 10,
+        "gain": 0.001
+      },
+      {
+        "band": 11,
+        "gain": 0.0
+      },
+      {
+        "band": 12,
+        "gain": 0.0
+      },
+      {
+        "band": 13,
+        "gain": 0.0
+      },
+      {
+        "band": 14,
+        "gain": 0.0
+      }
+    ]
+  },
+  "fx-83": {
+    "label": "Groove 83",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": 0.0
+      },
+      {
+        "band": 1,
+        "gain": 0.0
+      },
+      {
+        "band": 2,
+        "gain": 0.0
+      },
+      {
+        "band": 3,
+        "gain": 0.0
+      },
+      {
+        "band": 4,
+        "gain": 0.002
+      },
+      {
+        "band": 5,
+        "gain": 0.006
+      },
+      {
+        "band": 6,
+        "gain": 0.015
+      },
+      {
+        "band": 7,
+        "gain": 0.035
+      },
+      {
+        "band": 8,
+        "gain": 0.066
+      },
+      {
+        "band": 9,
+        "gain": 0.104
+      },
+      {
+        "band": 10,
+        "gain": 0.137
+      },
+      {
+        "band": 11,
+        "gain": 0.15
+      },
+      {
+        "band": 12,
+        "gain": 0.137
+      },
+      {
+        "band": 13,
+        "gain": 0.104
+      },
+      {
+        "band": 14,
+        "gain": 0.066
+      }
+    ]
+  },
+  "fx-84": {
+    "label": "Groove 84",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": 0.062
+      },
+      {
+        "band": 1,
+        "gain": 0.102
+      },
+      {
+        "band": 2,
+        "gain": 0.133
+      },
+      {
+        "band": 3,
+        "gain": 0.145
+      },
+      {
+        "band": 4,
+        "gain": 0.133
+      },
+      {
+        "band": 5,
+        "gain": 0.102
+      },
+      {
+        "band": 6,
+        "gain": 0.062
+      },
+      {
+        "band": 7,
+        "gain": 0.025
+      },
+      {
+        "band": 8,
+        "gain": -0.004
+      },
+      {
+        "band": 9,
+        "gain": -0.023
+      },
+      {
+        "band": 10,
+        "gain": -0.033
+      },
+      {
+        "band": 11,
+        "gain": -0.037
+      },
+      {
+        "band": 12,
+        "gain": -0.039
+      },
+      {
+        "band": 13,
+        "gain": -0.04
+      },
+      {
+        "band": 14,
+        "gain": -0.04
+      }
+    ]
+  },
+  "fx-85": {
+    "label": "Groove 85",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": 0.0
+      },
+      {
+        "band": 1,
+        "gain": 0.0
+      },
+      {
+        "band": 2,
+        "gain": 0.0
+      },
+      {
+        "band": 3,
+        "gain": 0.0
+      },
+      {
+        "band": 4,
+        "gain": 0.0
+      },
+      {
+        "band": 5,
+        "gain": 0.0
+      },
+      {
+        "band": 6,
+        "gain": 0.0
+      },
+      {
+        "band": 7,
+        "gain": 0.004
+      },
+      {
+        "band": 8,
+        "gain": 0.037
+      },
+      {
+        "band": 9,
+        "gain": 0.141
+      },
+      {
+        "band": 10,
+        "gain": 0.22
+      },
+      {
+        "band": 11,
+        "gain": 0.141
+      },
+      {
+        "band": 12,
+        "gain": 0.037
+      },
+      {
+        "band": 13,
+        "gain": 0.004
+      },
+      {
+        "band": 14,
+        "gain": 0.0
+      }
+    ]
+  },
+  "fx-86": {
+    "label": "Groove 86",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": 0.103
+      },
+      {
+        "band": 1,
+        "gain": 0.203
+      },
+      {
+        "band": 2,
+        "gain": 0.255
+      },
+      {
+        "band": 3,
+        "gain": 0.203
+      },
+      {
+        "band": 4,
+        "gain": 0.103
+      },
+      {
+        "band": 5,
+        "gain": 0.033
+      },
+      {
+        "band": 6,
+        "gain": 0.007
+      },
+      {
+        "band": 7,
+        "gain": 0.001
+      },
+      {
+        "band": 8,
+        "gain": 0.0
+      },
+      {
+        "band": 9,
+        "gain": 0.0
+      },
+      {
+        "band": 10,
+        "gain": 0.0
+      },
+      {
+        "band": 11,
+        "gain": 0.0
+      },
+      {
+        "band": 12,
+        "gain": 0.0
+      },
+      {
+        "band": 13,
+        "gain": 0.0
+      },
+      {
+        "band": 14,
+        "gain": 0.0
+      }
+    ]
+  },
+  "fx-87": {
+    "label": "Groove 87",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": 0.0
+      },
+      {
+        "band": 1,
+        "gain": 0.0
+      },
+      {
+        "band": 2,
+        "gain": 0.0
+      },
+      {
+        "band": 3,
+        "gain": 0.002
+      },
+      {
+        "band": 4,
+        "gain": 0.009
+      },
+      {
+        "band": 5,
+        "gain": 0.032
+      },
+      {
+        "band": 6,
+        "gain": 0.084
+      },
+      {
+        "band": 7,
+        "gain": 0.168
+      },
+      {
+        "band": 8,
+        "gain": 0.253
+      },
+      {
+        "band": 9,
+        "gain": 0.29
+      },
+      {
+        "band": 10,
+        "gain": 0.253
+      },
+      {
+        "band": 11,
+        "gain": 0.168
+      },
+      {
+        "band": 12,
+        "gain": 0.084
+      },
+      {
+        "band": 13,
+        "gain": 0.032
+      },
+      {
+        "band": 14,
+        "gain": 0.009
+      }
+    ]
+  },
+  "fx-88": {
+    "label": "Groove 88",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": 0.256
+      },
+      {
+        "band": 1,
+        "gain": 0.285
+      },
+      {
+        "band": 2,
+        "gain": 0.256
+      },
+      {
+        "band": 3,
+        "gain": 0.185
+      },
+      {
+        "band": 4,
+        "gain": 0.102
+      },
+      {
+        "band": 5,
+        "gain": 0.035
+      },
+      {
+        "band": 6,
+        "gain": -0.007
+      },
+      {
+        "band": 7,
+        "gain": -0.028
+      },
+      {
+        "band": 8,
+        "gain": -0.036
+      },
+      {
+        "band": 9,
+        "gain": -0.039
+      },
+      {
+        "band": 10,
+        "gain": -0.04
+      },
+      {
+        "band": 11,
+        "gain": -0.04
+      },
+      {
+        "band": 12,
+        "gain": -0.04
+      },
+      {
+        "band": 13,
+        "gain": -0.04
+      },
+      {
+        "band": 14,
+        "gain": -0.04
+      }
+    ]
+  },
+  "fx-89": {
+    "label": "Groove 89",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": 0.005
+      },
+      {
+        "band": 1,
+        "gain": 0.014
+      },
+      {
+        "band": 2,
+        "gain": 0.034
+      },
+      {
+        "band": 3,
+        "gain": 0.07
+      },
+      {
+        "band": 4,
+        "gain": 0.126
+      },
+      {
+        "band": 5,
+        "gain": 0.199
+      },
+      {
+        "band": 6,
+        "gain": 0.277
+      },
+      {
+        "band": 7,
+        "gain": 0.337
+      },
+      {
+        "band": 8,
+        "gain": 0.35
+      },
+      {
+        "band": 9,
+        "gain": 0.337
+      },
+      {
+        "band": 10,
+        "gain": 0.277
+      },
+      {
+        "band": 11,
+        "gain": 0.199
+      },
+      {
+        "band": 12,
+        "gain": 0.126
+      },
+      {
+        "band": 13,
+        "gain": 0.07
+      },
+      {
+        "band": 14,
+        "gain": 0.034
+      }
+    ]
+  },
+  "fx-90": {
+    "label": "Groove 90",
+    "equalizer": [
+      {
+        "band": 0,
+        "gain": 0.08
+      },
+      {
+        "band": 1,
+        "gain": 0.051
+      },
+      {
+        "band": 2,
+        "gain": 0.014
+      },
+      {
+        "band": 3,
+        "gain": 0.001
+      },
+      {
+        "band": 4,
+        "gain": 0.0
+      },
+      {
+        "band": 5,
+        "gain": 0.0
+      },
+      {
+        "band": 6,
+        "gain": 0.0
+      },
+      {
+        "band": 7,
+        "gain": 0.0
+      },
+      {
+        "band": 8,
+        "gain": 0.0
+      },
+      {
+        "band": 9,
+        "gain": 0.0
+      },
+      {
+        "band": 10,
+        "gain": 0.0
+      },
+      {
+        "band": 11,
+        "gain": 0.0
+      },
+      {
+        "band": 12,
+        "gain": 0.0
+      },
+      {
+        "band": 13,
+        "gain": 0.0
+      },
+      {
+        "band": 14,
+        "gain": 0.0
+      }
+    ]
+  }
+}

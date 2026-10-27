@@ -1,0 +1,502 @@
+[
+  {
+    "name": "help",
+    "category": "Utilities",
+    "description": "Browse commands and search the help menu"
+  },
+  {
+    "name": "play",
+    "category": "Music",
+    "description": "Play a song or audio URL"
+  },
+  {
+    "name": "pause",
+    "category": "Music",
+    "description": "Pause playback"
+  },
+  {
+    "name": "resume",
+    "category": "Music",
+    "description": "Resume playback"
+  },
+  {
+    "name": "skip",
+    "category": "Music",
+    "description": "Skip current track"
+  },
+  {
+    "name": "stop",
+    "category": "Music",
+    "description": "Stop playback and clear queue"
+  },
+  {
+    "name": "leave",
+    "category": "Music",
+    "description": "Disconnect from voice"
+  },
+  {
+    "name": "queue",
+    "category": "Queue",
+    "description": "Show upcoming tracks"
+  },
+  {
+    "name": "nowplaying",
+    "category": "Music",
+    "description": "Show the current song"
+  },
+  {
+    "name": "volume",
+    "category": "Music",
+    "description": "Set playback volume"
+  },
+  {
+    "name": "loop",
+    "category": "Queue",
+    "description": "Set repeat mode"
+  },
+  {
+    "name": "shuffle",
+    "category": "Queue",
+    "description": "Shuffle upcoming tracks"
+  },
+  {
+    "name": "remove",
+    "category": "Queue",
+    "description": "Remove a queued track"
+  },
+  {
+    "name": "clear",
+    "category": "Queue",
+    "description": "Clear upcoming tracks"
+  },
+  {
+    "name": "jump",
+    "category": "Queue",
+    "description": "Jump to a queued track"
+  },
+  {
+    "name": "seek",
+    "category": "Music",
+    "description": "Seek to a position"
+  },
+  {
+    "name": "replay",
+    "category": "Music",
+    "description": "Replay the current track"
+  },
+  {
+    "name": "preset",
+    "category": "Filters",
+    "description": "Apply one of 90 audio presets"
+  },
+  {
+    "name": "resetfilters",
+    "category": "Filters",
+    "description": "Reset all audio filters"
+  },
+  {
+    "name": "ping",
+    "category": "Utilities",
+    "description": "Show bot and node connectivity"
+  },
+  {
+    "name": "fx-01",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 01"
+  },
+  {
+    "name": "fx-02",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 02"
+  },
+  {
+    "name": "fx-03",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 03"
+  },
+  {
+    "name": "fx-04",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 04"
+  },
+  {
+    "name": "fx-05",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 05"
+  },
+  {
+    "name": "fx-06",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 06"
+  },
+  {
+    "name": "fx-07",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 07"
+  },
+  {
+    "name": "fx-08",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 08"
+  },
+  {
+    "name": "fx-09",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 09"
+  },
+  {
+    "name": "fx-10",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 10"
+  },
+  {
+    "name": "fx-11",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 11"
+  },
+  {
+    "name": "fx-12",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 12"
+  },
+  {
+    "name": "fx-13",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 13"
+  },
+  {
+    "name": "fx-14",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 14"
+  },
+  {
+    "name": "fx-15",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 15"
+  },
+  {
+    "name": "fx-16",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 16"
+  },
+  {
+    "name": "fx-17",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 17"
+  },
+  {
+    "name": "fx-18",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 18"
+  },
+  {
+    "name": "fx-19",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 19"
+  },
+  {
+    "name": "fx-20",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 20"
+  },
+  {
+    "name": "fx-21",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 21"
+  },
+  {
+    "name": "fx-22",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 22"
+  },
+  {
+    "name": "fx-23",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 23"
+  },
+  {
+    "name": "fx-24",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 24"
+  },
+  {
+    "name": "fx-25",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 25"
+  },
+  {
+    "name": "fx-26",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 26"
+  },
+  {
+    "name": "fx-27",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 27"
+  },
+  {
+    "name": "fx-28",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 28"
+  },
+  {
+    "name": "fx-29",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 29"
+  },
+  {
+    "name": "fx-30",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 30"
+  },
+  {
+    "name": "fx-31",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 31"
+  },
+  {
+    "name": "fx-32",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 32"
+  },
+  {
+    "name": "fx-33",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 33"
+  },
+  {
+    "name": "fx-34",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 34"
+  },
+  {
+    "name": "fx-35",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 35"
+  },
+  {
+    "name": "fx-36",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 36"
+  },
+  {
+    "name": "fx-37",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 37"
+  },
+  {
+    "name": "fx-38",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 38"
+  },
+  {
+    "name": "fx-39",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 39"
+  },
+  {
+    "name": "fx-40",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 40"
+  },
+  {
+    "name": "fx-41",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 41"
+  },
+  {
+    "name": "fx-42",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 42"
+  },
+  {
+    "name": "fx-43",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 43"
+  },
+  {
+    "name": "fx-44",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 44"
+  },
+  {
+    "name": "fx-45",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 45"
+  },
+  {
+    "name": "fx-46",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 46"
+  },
+  {
+    "name": "fx-47",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 47"
+  },
+  {
+    "name": "fx-48",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 48"
+  },
+  {
+    "name": "fx-49",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 49"
+  },
+  {
+    "name": "fx-50",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 50"
+  },
+  {
+    "name": "fx-51",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 51"
+  },
+  {
+    "name": "fx-52",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 52"
+  },
+  {
+    "name": "fx-53",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 53"
+  },
+  {
+    "name": "fx-54",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 54"
+  },
+  {
+    "name": "fx-55",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 55"
+  },
+  {
+    "name": "fx-56",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 56"
+  },
+  {
+    "name": "fx-57",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 57"
+  },
+  {
+    "name": "fx-58",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 58"
+  },
+  {
+    "name": "fx-59",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 59"
+  },
+  {
+    "name": "fx-60",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 60"
+  },
+  {
+    "name": "fx-61",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 61"
+  },
+  {
+    "name": "fx-62",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 62"
+  },
+  {
+    "name": "fx-63",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 63"
+  },
+  {
+    "name": "fx-64",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 64"
+  },
+  {
+    "name": "fx-65",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 65"
+  },
+  {
+    "name": "fx-66",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 66"
+  },
+  {
+    "name": "fx-67",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 67"
+  },
+  {
+    "name": "fx-68",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 68"
+  },
+  {
+    "name": "fx-69",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 69"
+  },
+  {
+    "name": "fx-70",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 70"
+  },
+  {
+    "name": "fx-71",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 71"
+  },
+  {
+    "name": "fx-72",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 72"
+  },
+  {
+    "name": "fx-73",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 73"
+  },
+  {
+    "name": "fx-74",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 74"
+  },
+  {
+    "name": "fx-75",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 75"
+  },
+  {
+    "name": "fx-76",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 76"
+  },
+  {
+    "name": "fx-77",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 77"
+  },
+  {
+    "name": "fx-78",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 78"
+  },
+  {
+    "name": "fx-79",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 79"
+  },
+  {
+    "name": "fx-80",
+    "category": "Filters",
+    "description": "Apply audio preset Groove 80"
+  }
+]

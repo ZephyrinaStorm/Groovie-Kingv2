@@ -1,4 +1,3 @@
-
 services:
   - type: worker
     name: groovie-king-bot
@@ -21,7 +20,6 @@ services:
         sync: false
       - key: LAVALINK_SECURE
         value: "true"
-
   - type: web
     name: groovie-king-website
     runtime: static

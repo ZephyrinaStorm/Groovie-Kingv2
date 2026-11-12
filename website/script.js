@@ -1,1 +1,413 @@
-:root{color-scheme:dark;--bg:#090a10;--surface:#14151e;--line:#30303f;--text:#f7f7fa;--muted:#b5b5c6;--pink:#fa4f9e;--lime:#9ef84b;--cyan:#37d5cf;--orange:#ffad55}*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:radial-gradient(ellipse at 85% 5%,#28142f 0,transparent 38%),radial-gradient(ellipse at 10% 65%,#0e2027 0,transparent 42%),var(--bg);color:var(--text);font:16px/1.6 system-ui,-apple-system,Segoe UI,sans-serif}a{color:inherit;text-decoration:none}button{font:inherit}.header{max-width:1220px;margin:auto;padding:20px 26px;display:flex;align-items:center;justify-content:space-between;gap:20px}.brand{display:flex;align-items:center;gap:12px;font-size:20px;font-weight:900;letter-spacing:-.7px}.brand img{width:55px;height:55px;object-fit:cover;border-radius:16px}.brand strong{color:var(--lime)}nav{display:flex;gap:4px;flex-wrap:wrap}nav a{padding:10px 12px;color:#d4d4df;border-radius:10px;font-size:14px}nav a:hover,nav a.active{background:#27212e;color:white}.menu{display:none;background:#1c1c29;border:1px solid var(--line);border-radius:12px;color:white;padding:9px 14px}main{min-height:65vh}section{max-width:1160px;margin:0 auto;padding:65px 26px}.hero{min-height:560px;display:grid;grid-template-columns:1.2fr .8fr;gap:48px;align-items:center}.hero-logo{width:min(100%,400px);aspect-ratio:1;object-fit:cover;border-radius:38px;box-shadow:0 0 100px #ef409c20;justify-self:center}.eyebrow{font-size:12px;font-weight:900;letter-spacing:3px;color:var(--cyan);text-transform:uppercase}.gradient{background:linear-gradient(100deg,var(--pink),var(--orange),var(--lime),var(--cyan));background-clip:text;-webkit-background-clip:text;color:transparent}h1{font-size:clamp(52px,8vw,108px);line-height:.98;letter-spacing:-.075em;margin:20px 0}h2{font-size:clamp(30px,4vw,48px);line-height:1.12;letter-spacing:-.045em;margin:14px 0 22px}h3{font-size:20px;margin:8px 0}p{color:var(--muted);max-width:740px}p.lead{font-size:19px;line-height:1.8}.actions{display:flex;flex-wrap:wrap;gap:12px;margin-top:30px}.btn{display:inline-flex;align-items:center;justify-content:center;min-height:48px;padding:12px 22px;border-radius:13px;font-weight:800;background:linear-gradient(105deg,#ff5a9c,#ffad55);color:#150b14}.btn.alt{background:#20212b;border:1px solid #41404c;color:#fff}.grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px}.card{padding:25px;background:linear-gradient(140deg,#1d1b29,#12151d);border:1px solid var(--line);border-radius:22px}.card p{font-size:14px;margin:8px 0 0}.stat{font-size:48px;line-height:1.2;font-weight:900;color:var(--lime)}.smallcaps{font-size:12px;letter-spacing:1.5px;font-weight:800;color:var(--muted)}.icon{width:55px;height:55px;display:grid;place-items:center;border-radius:16px;background:#27222e;margin-bottom:17px;color:var(--pink)}.icon svg{width:30px;height:30px;stroke:currentColor;stroke-width:1.8;fill:none;stroke-linecap:round;stroke-linejoin:round}.tag{font-size:11px;font-weight:900;letter-spacing:1.3px;text-transform:uppercase;color:var(--cyan)}.notice{margin-top:24px;padding:18px 22px;border:1px solid #3c3644;border-radius:14px;background:#191620;color:var(--muted)}.status-row{display:flex;justify-content:space-between;gap:15px;background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:18px 20px;margin:12px 0}.status-row strong{color:var(--orange)}.visualizer{height:135px;border:1px solid var(--line);border-radius:22px;background:radial-gradient(ellipse,#30213d,#15151d);display:flex;align-items:center;justify-content:center;gap:6px;overflow:hidden}.visualizer i{width:7px;height:var(--h);background:linear-gradient(var(--pink),var(--lime),var(--cyan));border-radius:8px;animation:beat 1s ease-in-out infinite alternate;animation-delay:var(--d)}@keyframes beat{from{transform:scaleY(.2)}to{transform:scaleY(1)}}footer{max-width:1160px;margin:auto;padding:28px 26px;border-top:1px solid var(--line);display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap;color:var(--muted);font-size:13px}a:focus-visible,button:focus-visible{outline:3px solid var(--lime);outline-offset:3px}@media(max-width:850px){.hero{grid-template-columns:1fr;min-height:auto}.hero-logo{max-width:280px;grid-row:1}.grid{grid-template-columns:repeat(2,minmax(0,1fr))}.menu{display:block}nav{display:none;width:100%;flex-direction:column}nav.open{display:flex}.header{flex-wrap:wrap}nav a{display:block}}@media(max-width:550px){.grid{grid-template-columns:1fr}section{padding:42px 20px}.header{padding:16px 20px}.hero-logo{max-width:230px}h1{font-size:55px}}@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.visualizer i{animation:none}}
+
+const logo = 'assets/logo.png';
+
+const sources = [
+  {
+    name: 'YouTube',
+    icon: '▶',
+    type: 'YouTube Plugin',
+    description: 'Stream music from YouTube and YouTube Music.'
+  },
+  {
+    name: 'SoundCloud',
+    icon: '☁',
+    type: 'Lavalink Source',
+    description: 'Play tracks and playlists from SoundCloud.'
+  },
+  {
+    name: 'Bandcamp',
+    icon: '♫',
+    type: 'Lavalink Source',
+    description: 'Discover albums and tracks from Bandcamp.'
+  },
+  {
+    name: 'Twitch',
+    icon: '◉',
+    type: 'Live Audio',
+    description: 'Listen to supported Twitch livestream audio.'
+  },
+  {
+    name: 'HTTP / Direct',
+    icon: '🔗',
+    type: 'Direct Streams',
+    description: 'Play direct audio URLs and internet radio streams.'
+  },
+  {
+    name: 'Spotify',
+    icon: '♫',
+    type: 'LavaSrc',
+    description: 'Resolve Spotify tracks and playlists through LavaSrc.'
+  },
+  {
+    name: 'Apple Music',
+    icon: '♪',
+    type: 'LavaSrc',
+    description: 'Resolve Apple Music tracks and playlists.'
+  },
+  {
+    name: 'Deezer',
+    icon: '▥',
+    type: 'LavaSrc',
+    description: 'Resolve Deezer music and playlists.'
+  },
+  {
+    name: 'Flowery TTS',
+    icon: '🎙',
+    type: 'Text to Speech',
+    description: 'Text-to-speech integration through LavaSrc.'
+  }
+];
+
+const features = [
+  {
+    icon: '🎵',
+    title: 'Music Playback',
+    description: 'Play, pause, resume, skip, and control your favorite music.'
+  },
+  {
+    icon: '📋',
+    title: 'Queue Management',
+    description: 'Organize, shuffle, repeat, and manage upcoming tracks.'
+  },
+  {
+    icon: '🎛',
+    title: 'Audio Filters',
+    description: 'Try Nightcore, Bass Boost, 3D audio, and other effects.'
+  },
+  {
+    icon: '🔊',
+    title: 'Volume Controls',
+    description: 'Adjust playback volume directly through Discord commands.'
+  },
+  {
+    icon: '🌐',
+    title: 'Multiple Music Sources',
+    description: 'Discover music across supported providers and audio streams.'
+  },
+  {
+    icon: '⚡',
+    title: 'Slash Commands',
+    description: 'Use Discord slash commands with an easy-to-read help menu.'
+  }
+];
+
+const sourceCards = sources.map(source => `
+  <article class="card">
+    <div class="icon" aria-hidden="true"
+         style="font-size:28px">
+      ${source.icon}
+    </div>
+    <div class="tag">${source.type}</div>
+    <h3>${source.name}</h3>
+    <p>${source.description}</p>
+  </article>
+`).join('');
+
+const featureCards = features.map(feature => `
+  <article class="card">
+    <div class="icon" aria-hidden="true"
+         style="font-size:28px">
+      ${feature.icon}
+    </div>
+    <h3>${feature.title}</h3>
+    <p>${feature.description}</p>
+  </article>
+`).join('');
+
+const visualizer = `
+  <div class="visualizer" aria-label="Decorative music visualizer">
+    ${Array.from({ length: 28 }, (_, i) => `
+      <i style="--h:${20 + (i * 37) % 95}px;
+                --d:-${(i * 7) % 13 / 10}s"></i>
+    `).join('')}
+  </div>
+`;
+
+const pages = {
+  home: `
+    <section class="hero">
+      <div>
+        <div class="eyebrow">YOUR DISCORD MUSIC EXPERIENCE</div>
+        <h1>
+          GROOVE<br>
+          <span class="gradient">KING.</span>
+        </h1>
+        <p class="lead">
+          Turn up the vibe with Groove King,
+          a Discord music bot powered by Lavalink.
+          Enjoy music playback, custom audio effects,
+          and multiple music sources.
+        </p>
+        <div class="actions">
+          <a class="btn" href="#features">EXPLORE FEATURES</a>
+          <a class="btn alt" href="#sources">MUSIC SOURCES</a>
+        </div>
+      </div>
+      <img class="hero-logo" src="${logo}"
+           alt="Groove King rainbow music note logo">
+    </section>
+
+    <section>
+      <div class="eyebrow">THE MUSIC EXPERIENCE</div>
+      <h2>Music made for your Discord server.</h2>
+      <div class="grid">
+        <article class="card">
+          <div class="stat">100</div>
+          <div class="smallcaps">SLASH COMMAND TARGET</div>
+        </article>
+        <article class="card">
+          <div class="stat">30</div>
+          <div class="smallcaps">NAMED AUDIO FILTERS</div>
+        </article>
+        <article class="card">
+          <div class="stat">9</div>
+          <div class="smallcaps">LISTED AUDIO SOURCES</div>
+        </article>
+      </div>
+    </section>
+
+    <section>
+      <div class="eyebrow">SOUND LAB</div>
+      <h2>Feel every beat.</h2>
+      ${visualizer}
+      <p>This is a decorative visualizer, not a live audio meter.</p>
+    </section>
+
+    <section>
+      <div class="eyebrow">DISCOVER MORE</div>
+      <h2>Everything you need for music.</h2>
+      <div class="grid">
+        ${featureCards}
+      </div>
+    </section>
+  `,
+
+  sources: `
+    <section>
+      <div class="eyebrow">SUPPORTED AUDIO SOURCES</div>
+      <h1>
+        MUSIC <span class="gradient">EVERYWHERE.</span>
+      </h1>
+      <p class="lead">
+        Discover tracks, playlists, live streams,
+        internet radio, and text-to-speech integrations.
+      </p>
+      <div class="grid">
+        ${sourceCards}
+      </div>
+      <div class="notice">
+        Audio source availability depends on your Lavalink
+        server configuration and installed plugins.
+        Spotify, Apple Music, and Deezer generally resolve
+        metadata and require a playable audio source.
+      </div>
+    </section>
+  `,
+
+  features: `
+    <section>
+      <div class="eyebrow">GROOVE KING FEATURES</div>
+      <h1>
+        YOUR MUSIC.<br>
+        <span class="gradient">YOUR RULES.</span>
+      </h1>
+      <p class="lead">
+        Everything you need to enjoy music with friends
+        in your Discord voice channels.
+      </p>
+      <div class="grid">
+        ${featureCards}
+      </div>
+      <div class="notice">
+        Feature availability depends on the currently deployed
+        bot version and Lavalink configuration.
+      </div>
+    </section>
+  `,
+
+  status: `
+    <section>
+      <div class="eyebrow">SYSTEM STATUS</div>
+      <h1>
+        SYSTEM <span class="gradient">STATUS.</span>
+      </h1>
+      <p>
+        Live monitoring is not connected to this static website.
+        The statuses below are informational placeholders.
+      </p>
+      <div class="status-row">
+        <span>Discord Bot</span>
+        <strong>Not connected</strong>
+      </div>
+      <div class="status-row">
+        <span>Lavalink Server</span>
+        <strong>Not connected</strong>
+      </div>
+      <div class="status-row">
+        <span>Music Playback</span>
+        <strong>Not verified</strong>
+      </div>
+      <div class="notice">
+        The bot uses Lavalink for audio playback.
+        Keep all Lavalink credentials and Discord tokens
+        private in your hosting environment.
+      </div>
+    </section>
+  `,
+
+  privacy: `
+    <section>
+      <div class="eyebrow">YOUR PRIVACY</div>
+      <h1>
+        PRIVACY <span class="gradient">POLICY.</span>
+      </h1>
+      <div class="notice">
+        Draft policy — review and complete before public launch.
+      </div>
+
+      <h2>Information We Process</h2>
+      <p>
+        Groove King may process Discord server identifiers,
+        voice channel identifiers, music requests,
+        and playback queue information to provide its features.
+      </p>
+
+      <h2>Third-Party Services</h2>
+      <p>
+        Music requests may be processed through Lavalink
+        and configured external music providers.
+      </p>
+
+      <h2>Data Retention</h2>
+      <p>
+        Actual storage practices, retention periods,
+        and contact details must be confirmed by the operator.
+      </p>
+    </section>
+  `,
+
+  terms: `
+    <section>
+      <div class="eyebrow">SERVICE GUIDELINES</div>
+      <h1>
+        TERMS OF <span class="gradient">SERVICE.</span>
+      </h1>
+      <div class="notice">
+        Draft terms — review before public launch.
+      </div>
+
+      <h2>Using Groove King</h2>
+      <p>
+        Users must follow Discord's Terms of Service,
+        applicable laws, and media provider rules.
+      </p>
+
+      <h2>Acceptable Use</h2>
+      <p>
+        Do not abuse commands, disrupt the service,
+        or use Groove King for unauthorized activities.
+      </p>
+
+      <h2>Availability</h2>
+      <p>
+        Music playback and integrations may be affected
+        by hosting maintenance, Lavalink configuration,
+        and third-party services.
+      </p>
+    </section>
+  `,
+
+  discord: `
+    <section class="hero">
+      <div>
+        <div class="eyebrow">JOIN THE COMMUNITY</div>
+        <h1>
+          JOIN THE<br>
+          <span class="gradient">GROOVE.</span>
+        </h1>
+        <p class="lead">
+          Connect with the community, share feedback,
+          request features, and get help with Groove King.
+        </p>
+        <div class="actions">
+          <a class="btn"
+             href="https://discord.gg/dragojsgames"
+             target="_blank"
+             rel="noopener noreferrer">
+            OPEN DISCORD COMMUNITY
+          </a>
+        </div>
+        <p>
+          This is the existing DragoJsGames community link.
+          Replace it with your Groove King invite if different.
+        </p>
+      </div>
+      <img class="hero-logo" src="${logo}"
+           alt="Groove King logo">
+    </section>
+  `
+};
+
+function render() {
+  const pageElement = document.getElementById('page');
+
+  if (!pageElement) {
+    console.error('Missing #page element in index.html');
+    return;
+  }
+
+  const hash = window.location.hash
+    .replace('#', '')
+    .toLowerCase();
+
+  const currentPage = Object.prototype.hasOwnProperty.call(pages, hash)
+    ? hash
+    : 'home';
+
+  pageElement.innerHTML = pages[currentPage];
+
+  document.querySelectorAll('nav a').forEach(link => {
+    link.classList.toggle(
+      'active',
+      link.getAttribute('href') === '#' + currentPage
+    );
+  });
+
+  document.title =
+    `Groove King — ${currentPage.charAt(0).toUpperCase() + currentPage.slice(1)}`;
+
+  window.scrollTo(0, 0);
+}
+
+function initializeWebsite() {
+  const menuButton = document.querySelector('.menu');
+  const navigation = document.getElementById('navigation');
+  const year = document.getElementById('year');
+
+  if (year) {
+    year.textContent = new Date().getFullYear();
+  }
+
+  if (menuButton && navigation) {
+    menuButton.addEventListener('click', () => {
+      const opened = navigation.classList.toggle('open');
+      menuButton.setAttribute('aria-expanded', String(opened));
+    });
+
+    navigation.querySelectorAll('a').forEach(link => {
+      link.addEventListener('click', () => {
+        navigation.classList.remove('open');
+        menuButton.setAttribute('aria-expanded', 'false');
+      });
+    });
+  }
+
+  window.addEventListener('hashchange', render);
+  render();
+}
+
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', initializeWebsite);
+} else {
+  initializeWebsite();
+}
